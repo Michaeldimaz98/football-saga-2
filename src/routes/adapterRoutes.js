@@ -616,6 +616,7 @@ function ensureCareer(save) {
 
 // Normalize standings entry — old format: {club:{name,logo,...}, played,...}
 // New format: {name, logo, played, ...}
+
 function normalizeStandingsEntry(t) {
   if (!t) return t;
   if (t.club && typeof t.club === "object") {
@@ -655,10 +656,10 @@ function buildCareerStandings(career, save) {
     if (t.isMe || t.id === "me") {
       t.name = myTeamName;
       t.logo = myTeamLogo;
-      t.isMe = true;
-      t.id = "me";
     }
   });
+  return standings;
+}
 
   // Check if My Team entry already exists
   const hasMeEntry = standings.some((t) => t.isMe);
