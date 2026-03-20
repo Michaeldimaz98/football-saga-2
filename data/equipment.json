@@ -1,0 +1,829 @@
+[
+  {
+    "name": "Rookie GK Gloves",
+    "slot": "HAND",
+    "role": "GK",
+    "rarity": "C",
+    "power": 12,
+    "bonus": {
+      "defense": 6,
+      "mentality": 4
+    },
+    "statTags": [
+      "tackle",
+      "reflexes"
+    ],
+    "id": "eq_rookie_gk_gloves",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Leather GK Gloves",
+    "slot": "HAND",
+    "role": "GK",
+    "rarity": "B",
+    "power": 22,
+    "bonus": {
+      "defense": 14,
+      "mentality": 8,
+      "stamina": 4
+    },
+    "statTags": [
+      "tackle",
+      "reflexes",
+      "positioning"
+    ],
+    "id": "eq_leather_gk_gloves",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Pro GK Gloves",
+    "slot": "HAND",
+    "role": "GK",
+    "rarity": "A",
+    "power": 38,
+    "bonus": {
+      "defense": 24,
+      "mentality": 14,
+      "stamina": 8
+    },
+    "statTags": [
+      "tackle",
+      "reflexes",
+      "positioning",
+      "aerial"
+    ],
+    "id": "eq_pro_gk_gloves",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Legend GK Gloves",
+    "slot": "HAND",
+    "role": "GK",
+    "rarity": "S",
+    "power": 60,
+    "bonus": {
+      "defense": 38,
+      "mentality": 22,
+      "stamina": 14
+    },
+    "statTags": [
+      "tackle",
+      "reflexes",
+      "positioning",
+      "aerial",
+      "distribution"
+    ],
+    "id": "eq_legend_gk_gloves",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Rookie Defender Boots",
+    "slot": "FEET",
+    "role": "DEF",
+    "rarity": "C",
+    "power": 10,
+    "bonus": {
+      "defense": 8,
+      "stamina": 5
+    },
+    "statTags": [
+      "tackle",
+      "strength"
+    ],
+    "id": "eq_rookie_defender_boots",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Steel Defender Boots",
+    "slot": "FEET",
+    "role": "DEF",
+    "rarity": "B",
+    "power": 20,
+    "bonus": {
+      "defense": 16,
+      "stamina": 10,
+      "pace": 4
+    },
+    "statTags": [
+      "tackle",
+      "strength",
+      "interception"
+    ],
+    "id": "eq_steel_defender_boots",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Elite Defender Boots",
+    "slot": "FEET",
+    "role": "DEF",
+    "rarity": "A",
+    "power": 36,
+    "bonus": {
+      "defense": 26,
+      "stamina": 16,
+      "pace": 8
+    },
+    "statTags": [
+      "tackle",
+      "strength",
+      "interception",
+      "speed"
+    ],
+    "id": "eq_elite_defender_boots",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Legend Defender Boots",
+    "slot": "FEET",
+    "role": "DEF",
+    "rarity": "S",
+    "power": 58,
+    "bonus": {
+      "defense": 40,
+      "stamina": 24,
+      "pace": 14
+    },
+    "statTags": [
+      "tackle",
+      "strength",
+      "interception",
+      "speed",
+      "leadership"
+    ],
+    "id": "eq_legend_defender_boots",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Rookie Defender Armor",
+    "slot": "BODY",
+    "role": "DEF",
+    "rarity": "C",
+    "power": 11,
+    "bonus": {
+      "defense": 9,
+      "stamina": 6
+    },
+    "statTags": [
+      "strength",
+      "endurance"
+    ],
+    "id": "eq_rookie_defender_armor",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Padded Defender Armor",
+    "slot": "BODY",
+    "role": "DEF",
+    "rarity": "B",
+    "power": 21,
+    "bonus": {
+      "defense": 17,
+      "stamina": 12,
+      "mentality": 4
+    },
+    "statTags": [
+      "strength",
+      "endurance",
+      "positioning"
+    ],
+    "id": "eq_padded_defender_armor",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Elite Defender Armor",
+    "slot": "BODY",
+    "role": "DEF",
+    "rarity": "A",
+    "power": 37,
+    "bonus": {
+      "defense": 28,
+      "stamina": 18,
+      "mentality": 8
+    },
+    "statTags": [
+      "strength",
+      "endurance",
+      "positioning",
+      "aerial"
+    ],
+    "id": "eq_elite_defender_armor",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Legend Defender Armor",
+    "slot": "BODY",
+    "role": "DEF",
+    "rarity": "S",
+    "power": 62,
+    "bonus": {
+      "defense": 42,
+      "stamina": 26,
+      "mentality": 14
+    },
+    "statTags": [
+      "strength",
+      "endurance",
+      "positioning",
+      "aerial",
+      "leadership"
+    ],
+    "id": "eq_legend_defender_armor",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Rookie Mid Boots",
+    "slot": "FEET",
+    "role": "MID",
+    "rarity": "C",
+    "power": 12,
+    "bonus": {
+      "passing": 7,
+      "stamina": 5
+    },
+    "statTags": [
+      "passing",
+      "stamina"
+    ],
+    "id": "eq_rookie_mid_boots",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Agility Mid Boots",
+    "slot": "FEET",
+    "role": "MID",
+    "rarity": "B",
+    "power": 22,
+    "bonus": {
+      "passing": 13,
+      "stamina": 10,
+      "pace": 5
+    },
+    "statTags": [
+      "passing",
+      "stamina",
+      "dribbling"
+    ],
+    "id": "eq_agility_mid_boots",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Vision Mid Boots",
+    "slot": "FEET",
+    "role": "MID",
+    "rarity": "A",
+    "power": 40,
+    "bonus": {
+      "passing": 22,
+      "stamina": 16,
+      "pace": 9,
+      "shooting": 6
+    },
+    "statTags": [
+      "passing",
+      "stamina",
+      "dribbling",
+      "vision"
+    ],
+    "id": "eq_vision_mid_boots",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Maestro Mid Boots",
+    "slot": "FEET",
+    "role": "MID",
+    "rarity": "S",
+    "power": 64,
+    "bonus": {
+      "passing": 34,
+      "stamina": 24,
+      "pace": 14,
+      "shooting": 10
+    },
+    "statTags": [
+      "passing",
+      "stamina",
+      "dribbling",
+      "vision",
+      "leadership"
+    ],
+    "id": "eq_maestro_mid_boots",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Rookie Mid Jersey",
+    "slot": "BODY",
+    "role": "MID",
+    "rarity": "C",
+    "power": 10,
+    "bonus": {
+      "stamina": 8,
+      "passing": 4
+    },
+    "statTags": [
+      "stamina",
+      "endurance"
+    ],
+    "id": "eq_rookie_mid_jersey",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Dynamo Mid Jersey",
+    "slot": "BODY",
+    "role": "MID",
+    "rarity": "B",
+    "power": 20,
+    "bonus": {
+      "stamina": 14,
+      "passing": 8,
+      "mentality": 5
+    },
+    "statTags": [
+      "stamina",
+      "endurance",
+      "vision"
+    ],
+    "id": "eq_dynamo_mid_jersey",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Playmaker Jersey",
+    "slot": "BODY",
+    "role": "MID",
+    "rarity": "A",
+    "power": 36,
+    "bonus": {
+      "stamina": 22,
+      "passing": 14,
+      "mentality": 10,
+      "pace": 6
+    },
+    "statTags": [
+      "stamina",
+      "endurance",
+      "vision",
+      "dribbling"
+    ],
+    "id": "eq_playmaker_jersey",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Maestro Jersey",
+    "slot": "BODY",
+    "role": "MID",
+    "rarity": "S",
+    "power": 60,
+    "bonus": {
+      "stamina": 32,
+      "passing": 22,
+      "mentality": 16,
+      "pace": 10
+    },
+    "statTags": [
+      "stamina",
+      "endurance",
+      "vision",
+      "dribbling",
+      "leadership"
+    ],
+    "id": "eq_maestro_jersey",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Rookie Striker Boots",
+    "slot": "FEET",
+    "role": "ATT",
+    "rarity": "C",
+    "power": 14,
+    "bonus": {
+      "shooting": 8,
+      "pace": 6
+    },
+    "statTags": [
+      "finishing",
+      "speed"
+    ],
+    "id": "eq_rookie_striker_boots",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Turbo Striker Boots",
+    "slot": "FEET",
+    "role": "ATT",
+    "rarity": "B",
+    "power": 26,
+    "bonus": {
+      "shooting": 16,
+      "pace": 12,
+      "passing": 4
+    },
+    "statTags": [
+      "finishing",
+      "speed",
+      "dribbling"
+    ],
+    "id": "eq_turbo_striker_boots",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Predator Striker Boots",
+    "slot": "FEET",
+    "role": "ATT",
+    "rarity": "A",
+    "power": 46,
+    "bonus": {
+      "shooting": 26,
+      "pace": 18,
+      "passing": 8,
+      "stamina": 6
+    },
+    "statTags": [
+      "finishing",
+      "speed",
+      "dribbling",
+      "power_shot"
+    ],
+    "id": "eq_predator_striker_boots",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Destroyer Striker Boots",
+    "slot": "FEET",
+    "role": "ATT",
+    "rarity": "S",
+    "power": 68,
+    "bonus": {
+      "shooting": 38,
+      "pace": 26,
+      "passing": 12,
+      "stamina": 10
+    },
+    "statTags": [
+      "finishing",
+      "speed",
+      "dribbling",
+      "power_shot",
+      "aerial"
+    ],
+    "id": "eq_destroyer_striker_boots",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Rookie Striker Jersey",
+    "slot": "BODY",
+    "role": "ATT",
+    "rarity": "C",
+    "power": 12,
+    "bonus": {
+      "shooting": 6,
+      "pace": 5
+    },
+    "statTags": [
+      "finishing",
+      "agility"
+    ],
+    "id": "eq_rookie_striker_jersey",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Flash Striker Jersey",
+    "slot": "BODY",
+    "role": "ATT",
+    "rarity": "B",
+    "power": 24,
+    "bonus": {
+      "shooting": 12,
+      "pace": 10,
+      "stamina": 5
+    },
+    "statTags": [
+      "finishing",
+      "agility",
+      "speed"
+    ],
+    "id": "eq_flash_striker_jersey",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Elite Striker Jersey",
+    "slot": "BODY",
+    "role": "ATT",
+    "rarity": "A",
+    "power": 42,
+    "bonus": {
+      "shooting": 20,
+      "pace": 16,
+      "stamina": 10,
+      "mentality": 6
+    },
+    "statTags": [
+      "finishing",
+      "agility",
+      "speed",
+      "composure"
+    ],
+    "id": "eq_elite_striker_jersey",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Legend Striker Jersey",
+    "slot": "BODY",
+    "role": "ATT",
+    "rarity": "S",
+    "power": 66,
+    "bonus": {
+      "shooting": 30,
+      "pace": 22,
+      "stamina": 16,
+      "mentality": 12
+    },
+    "statTags": [
+      "finishing",
+      "agility",
+      "speed",
+      "composure",
+      "leadership"
+    ],
+    "id": "eq_legend_striker_jersey",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Iron Arm Guard",
+    "slot": "ACC",
+    "role": "DEF",
+    "rarity": "B",
+    "power": 18,
+    "bonus": {
+      "defense": 14,
+      "stamina": 6
+    },
+    "statTags": [
+      "tackle",
+      "strength"
+    ],
+    "id": "eq_iron_arm_guard",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Titanium Arm Guard",
+    "slot": "ACC",
+    "role": "DEF",
+    "rarity": "A",
+    "power": 32,
+    "bonus": {
+      "defense": 22,
+      "stamina": 12,
+      "mentality": 8
+    },
+    "statTags": [
+      "tackle",
+      "strength",
+      "positioning"
+    ],
+    "id": "eq_titanium_arm_guard",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Focus Headband",
+    "slot": "HEAD",
+    "role": "MID",
+    "rarity": "C",
+    "power": 8,
+    "bonus": {
+      "mentality": 6,
+      "passing": 4
+    },
+    "statTags": [
+      "vision",
+      "composure"
+    ],
+    "id": "eq_focus_headband",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Vision Headband",
+    "slot": "HEAD",
+    "role": "MID",
+    "rarity": "B",
+    "power": 16,
+    "bonus": {
+      "mentality": 12,
+      "passing": 8,
+      "stamina": 4
+    },
+    "statTags": [
+      "vision",
+      "composure",
+      "passing"
+    ],
+    "id": "eq_vision_headband",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Elite Focus Headband",
+    "slot": "HEAD",
+    "role": "ATT",
+    "rarity": "A",
+    "power": 28,
+    "bonus": {
+      "mentality": 18,
+      "shooting": 10,
+      "pace": 6
+    },
+    "statTags": [
+      "composure",
+      "finishing",
+      "speed"
+    ],
+    "id": "eq_elite_focus_headband",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Lucky Aura Ring",
+    "slot": "ACC",
+    "role": "ALL",
+    "rarity": "SSR",
+    "power": 30,
+    "bonus": {
+      "pace": 10,
+      "passing": 10,
+      "shooting": 10,
+      "defense": 10
+    },
+    "statTags": [
+      "all_round",
+      "luck"
+    ],
+    "id": "eq_lucky_aura_ring",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Mythic Crown",
+    "slot": "HEAD",
+    "role": "ALL",
+    "rarity": "SSR",
+    "power": 35,
+    "bonus": {
+      "mentality": 20,
+      "stamina": 15,
+      "defense": 8,
+      "shooting": 8
+    },
+    "statTags": [
+      "leadership",
+      "composure",
+      "all_round"
+    ],
+    "id": "eq_mythic_crown",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Phantom Gloves",
+    "slot": "HAND",
+    "role": "ALL",
+    "rarity": "SS",
+    "power": 28,
+    "bonus": {
+      "defense": 12,
+      "pace": 8,
+      "passing": 8
+    },
+    "statTags": [
+      "reflexes",
+      "dribbling",
+      "interception"
+    ],
+    "id": "eq_phantom_gloves",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  },
+  {
+    "name": "Storm Boots",
+    "slot": "FEET",
+    "role": "ALL",
+    "rarity": "SS",
+    "power": 32,
+    "bonus": {
+      "pace": 14,
+      "shooting": 10,
+      "passing": 8,
+      "stamina": 8
+    },
+    "statTags": [
+      "speed",
+      "finishing",
+      "dribbling"
+    ],
+    "id": "eq_storm_boots",
+    "price": 0,
+    "hp": 100,
+    "maxHp": 100,
+    "upgrade": 0
+  }
+]

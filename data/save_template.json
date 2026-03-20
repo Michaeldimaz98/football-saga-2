@@ -1,0 +1,18 @@
+{
+  "coin": 500,
+  "premiumCoin": 10,
+  "stage": 1,
+  "formation": "4-3-3",
+  "lineup": {},
+  "inventory": [],
+  "players": [],
+  "winCount": 0,
+  "drawCount": 0,
+  "loseCount": 0,
+  "myClub": null,
+  "career": null,
+  "careerHistory": [],
+  "activeBuff": null,
+  "character": null,
+  "profile": {}
+}

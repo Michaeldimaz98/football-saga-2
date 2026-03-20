@@ -1,0 +1,14 @@
+[
+  {
+    "username": "michaeldimaz",
+    "displayName": "michaeldimaz",
+    "password": {
+      "hash": "667c1cbe945355c04ddd7d8a0a74b134136a5f41ef5da75f69c3e58e69e92368",
+      "salt": "legacy_sha256"
+    },
+    "created": "2026-03-18T13:04:52.422Z",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=michaeldimaz&backgroundColor=1a2a3a",
+    "_legacyPassword": "667c1cbe945355c04ddd7d8a0a74b134136a5f41ef5da75f69c3e58e69e92368",
+    "lastLoginAt": "2026-03-20T15:08:54.969Z"
+  }
+]

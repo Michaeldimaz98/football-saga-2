@@ -1,0 +1,8543 @@
+{
+  "username": "michaeldimaz",
+  "coin": 38473,
+  "premiumCoin": 5,
+  "stage": 25,
+  "formation": "4-2-3-1",
+  "inventory": [
+    {
+      "name": "Phantom Gloves",
+      "slot": "HAND",
+      "role": "ALL",
+      "rarity": "SS",
+      "power": 28,
+      "bonus": {
+        "defense": 12,
+        "pace": 8,
+        "passing": 8
+      },
+      "statTags": [
+        "reflexes",
+        "dribbling",
+        "interception"
+      ],
+      "id": "michaeldimaz_1773842291936_fpc0c",
+      "upgrade": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "equippedBy": null,
+      "equippedSlot": null
+    },
+    {
+      "name": "Padded Defender Armor",
+      "slot": "BODY",
+      "role": "DEF",
+      "rarity": "B",
+      "power": 21,
+      "bonus": {
+        "defense": 17,
+        "stamina": 12,
+        "mentality": 4
+      },
+      "statTags": [
+        "strength",
+        "endurance",
+        "positioning"
+      ],
+      "id": "michaeldimaz_1773842291936_ind8f",
+      "upgrade": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "equippedBy": null,
+      "equippedSlot": null
+    },
+    {
+      "name": "Rookie Mid Boots",
+      "slot": "FEET",
+      "role": "MID",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "passing": 7,
+        "stamina": 5
+      },
+      "statTags": [
+        "passing",
+        "stamina"
+      ],
+      "id": "michaeldimaz_1773842291936_k21ir",
+      "upgrade": 3,
+      "hp": 100,
+      "maxHp": 100,
+      "equippedBy": null,
+      "equippedSlot": null
+    },
+    {
+      "name": "Focus Headband",
+      "slot": "HEAD",
+      "role": "MID",
+      "rarity": "C",
+      "power": 8,
+      "bonus": {
+        "mentality": 6,
+        "passing": 4
+      },
+      "statTags": [
+        "vision",
+        "composure"
+      ],
+      "id": "michaeldimaz_1773842291936_7ppfo",
+      "upgrade": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "equippedBy": "6",
+      "equippedSlot": "HEAD"
+    },
+    {
+      "name": "Destroyer Striker Boots",
+      "slot": "FEET",
+      "role": "ATT",
+      "rarity": "S",
+      "power": 68,
+      "bonus": {
+        "shooting": 38,
+        "pace": 26,
+        "passing": 12,
+        "stamina": 10
+      },
+      "statTags": [
+        "finishing",
+        "speed",
+        "dribbling",
+        "power_shot",
+        "aerial"
+      ],
+      "id": "michaeldimaz_1773842291936_3jhse",
+      "upgrade": 2,
+      "hp": 100,
+      "maxHp": 100,
+      "equippedBy": "10",
+      "equippedSlot": "FEET"
+    },
+    {
+      "name": "Pro GK Gloves",
+      "slot": "HAND",
+      "role": "GK",
+      "rarity": "A",
+      "power": 38,
+      "bonus": {
+        "defense": 24,
+        "mentality": 14,
+        "stamina": 8
+      },
+      "statTags": [
+        "tackle",
+        "reflexes",
+        "positioning",
+        "aerial"
+      ],
+      "id": "michaeldimaz_1773842291936_5rewa",
+      "upgrade": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "equippedBy": null,
+      "equippedSlot": null
+    },
+    {
+      "name": "Maestro Mid Boots",
+      "slot": "FEET",
+      "role": "MID",
+      "rarity": "S",
+      "power": 64,
+      "bonus": {
+        "passing": 34,
+        "stamina": 24,
+        "pace": 14,
+        "shooting": 10
+      },
+      "statTags": [
+        "passing",
+        "stamina",
+        "dribbling",
+        "vision",
+        "leadership"
+      ],
+      "id": "michaeldimaz_1773842291936_pb99s",
+      "upgrade": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "equippedBy": "6",
+      "equippedSlot": "FEET"
+    },
+    {
+      "name": "Turbo Striker Boots",
+      "slot": "FEET",
+      "role": "ATT",
+      "rarity": "B",
+      "power": 26,
+      "bonus": {
+        "shooting": 16,
+        "pace": 12,
+        "passing": 4
+      },
+      "statTags": [
+        "finishing",
+        "speed",
+        "dribbling"
+      ],
+      "id": "michaeldimaz_1773842291936_wf5b7",
+      "upgrade": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "equippedBy": null,
+      "equippedSlot": null
+    },
+    {
+      "name": "Flash Striker Jersey",
+      "slot": "BODY",
+      "role": "ATT",
+      "rarity": "B",
+      "power": 24,
+      "bonus": {
+        "shooting": 12,
+        "pace": 10,
+        "stamina": 5
+      },
+      "statTags": [
+        "finishing",
+        "agility",
+        "speed"
+      ],
+      "id": "michaeldimaz_1773842291936_mso2z",
+      "upgrade": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "equippedBy": null,
+      "equippedSlot": null
+    },
+    {
+      "name": "Legend Defender Armor",
+      "slot": "BODY",
+      "role": "DEF",
+      "rarity": "S",
+      "power": 62,
+      "bonus": {
+        "defense": 42,
+        "stamina": 26,
+        "mentality": 14
+      },
+      "statTags": [
+        "strength",
+        "endurance",
+        "positioning",
+        "aerial",
+        "leadership"
+      ],
+      "id": "michaeldimaz_1773842291936_v23dg",
+      "upgrade": 1,
+      "hp": 100,
+      "maxHp": 100,
+      "equippedBy": null,
+      "equippedSlot": null
+    },
+    {
+      "id": "1773849522411_0.4484683961807969",
+      "name": "Striker Wristband",
+      "slot": "HAND",
+      "role": "ATT",
+      "rarity": "B",
+      "power": 14,
+      "price": 130,
+      "premiumPrice": 0,
+      "icon": "🤜",
+      "iconColor": "#ef4444",
+      "bonus": {
+        "shooting": 8,
+        "mentality": 6
+      },
+      "statTags": [
+        "composure",
+        "finishing"
+      ],
+      "upgrade": 1,
+      "hp": 100,
+      "maxHp": 100,
+      "equippedBy": null,
+      "equippedSlot": null
+    },
+    {
+      "id": "1773849529737_0.3641120829837654",
+      "name": "Elite Striker Jersey",
+      "slot": "BODY",
+      "role": "ATT",
+      "rarity": "A",
+      "power": 42,
+      "price": 340,
+      "premiumPrice": 0,
+      "icon": "👕",
+      "iconColor": "#a855f7",
+      "bonus": {
+        "shooting": 20,
+        "pace": 15,
+        "stamina": 10,
+        "mentality": 6
+      },
+      "statTags": [
+        "finishing",
+        "agility",
+        "composure"
+      ],
+      "upgrade": 2,
+      "hp": 100,
+      "maxHp": 100,
+      "equippedBy": "10",
+      "equippedSlot": "BODY"
+    },
+    {
+      "name": "Dynamo Mid Jersey",
+      "slot": "BODY",
+      "role": "MID",
+      "rarity": "B",
+      "power": 20,
+      "bonus": {
+        "stamina": 14,
+        "passing": 8,
+        "mentality": 5
+      },
+      "statTags": [
+        "stamina",
+        "endurance",
+        "vision"
+      ],
+      "id": "equip_1773907641447_75380",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773907641447
+    },
+    {
+      "name": "Iron Arm Guard",
+      "slot": "ACC",
+      "role": "DEF",
+      "rarity": "B",
+      "power": 18,
+      "bonus": {
+        "defense": 14,
+        "stamina": 6
+      },
+      "statTags": [
+        "tackle",
+        "strength"
+      ],
+      "id": "equip_1773942257578_29432",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942257578
+    },
+    {
+      "name": "Rookie Striker Boots",
+      "slot": "FEET",
+      "role": "ATT",
+      "rarity": "C",
+      "power": 14,
+      "bonus": {
+        "shooting": 8,
+        "pace": 6
+      },
+      "statTags": [
+        "finishing",
+        "speed"
+      ],
+      "id": "equip_1773942257578_35995",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942257578
+    },
+    {
+      "name": "Flash Striker Jersey",
+      "slot": "BODY",
+      "role": "ATT",
+      "rarity": "B",
+      "power": 24,
+      "bonus": {
+        "shooting": 12,
+        "pace": 10,
+        "stamina": 5
+      },
+      "statTags": [
+        "finishing",
+        "agility",
+        "speed"
+      ],
+      "id": "equip_1773942257578_21722",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942257578
+    },
+    {
+      "name": "Focus Headband",
+      "slot": "HEAD",
+      "role": "MID",
+      "rarity": "C",
+      "power": 8,
+      "bonus": {
+        "mentality": 6,
+        "passing": 4
+      },
+      "statTags": [
+        "vision",
+        "composure"
+      ],
+      "id": "equip_1773942257578_7303",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942257578
+    },
+    {
+      "name": "Elite Focus Headband",
+      "slot": "HEAD",
+      "role": "ATT",
+      "rarity": "A",
+      "power": 28,
+      "bonus": {
+        "mentality": 18,
+        "shooting": 10,
+        "pace": 6
+      },
+      "statTags": [
+        "composure",
+        "finishing",
+        "speed"
+      ],
+      "id": "equip_1773942257578_98973",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942257578
+    },
+    {
+      "name": "Focus Headband",
+      "slot": "HEAD",
+      "role": "MID",
+      "rarity": "C",
+      "power": 8,
+      "bonus": {
+        "mentality": 6,
+        "passing": 4
+      },
+      "statTags": [
+        "vision",
+        "composure"
+      ],
+      "id": "equip_1773942257578_78468",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942257578
+    },
+    {
+      "name": "Rookie Mid Jersey",
+      "slot": "BODY",
+      "role": "MID",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "stamina": 8,
+        "passing": 4
+      },
+      "statTags": [
+        "stamina",
+        "endurance"
+      ],
+      "id": "equip_1773942257578_41823",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942257578
+    },
+    {
+      "name": "Dynamo Mid Jersey",
+      "slot": "BODY",
+      "role": "MID",
+      "rarity": "B",
+      "power": 20,
+      "bonus": {
+        "stamina": 14,
+        "passing": 8,
+        "mentality": 5
+      },
+      "statTags": [
+        "stamina",
+        "endurance",
+        "vision"
+      ],
+      "id": "equip_1773942257578_90997",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942257578
+    },
+    {
+      "name": "Rookie Striker Jersey",
+      "slot": "BODY",
+      "role": "ATT",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "shooting": 6,
+        "pace": 5
+      },
+      "statTags": [
+        "finishing",
+        "agility"
+      ],
+      "id": "equip_1773942257578_75520",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942257578
+    },
+    {
+      "name": "Rookie Mid Jersey",
+      "slot": "BODY",
+      "role": "MID",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "stamina": 8,
+        "passing": 4
+      },
+      "statTags": [
+        "stamina",
+        "endurance"
+      ],
+      "id": "equip_1773942257578_47888",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942257578
+    },
+    {
+      "name": "Elite Defender Armor",
+      "slot": "BODY",
+      "role": "DEF",
+      "rarity": "A",
+      "power": 37,
+      "bonus": {
+        "defense": 28,
+        "stamina": 18,
+        "mentality": 8
+      },
+      "statTags": [
+        "strength",
+        "endurance",
+        "positioning",
+        "aerial"
+      ],
+      "id": "equip_1773942262028_23606",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942262028
+    },
+    {
+      "name": "Vision Headband",
+      "slot": "HEAD",
+      "role": "MID",
+      "rarity": "B",
+      "power": 16,
+      "bonus": {
+        "mentality": 12,
+        "passing": 8,
+        "stamina": 4
+      },
+      "statTags": [
+        "vision",
+        "composure",
+        "passing"
+      ],
+      "id": "equip_1773942262028_80845",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942262028
+    },
+    {
+      "name": "Rookie Mid Jersey",
+      "slot": "BODY",
+      "role": "MID",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "stamina": 8,
+        "passing": 4
+      },
+      "statTags": [
+        "stamina",
+        "endurance"
+      ],
+      "id": "equip_1773942262029_79653",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942262029
+    },
+    {
+      "name": "Vision Headband",
+      "slot": "HEAD",
+      "role": "MID",
+      "rarity": "B",
+      "power": 16,
+      "bonus": {
+        "mentality": 12,
+        "passing": 8,
+        "stamina": 4
+      },
+      "statTags": [
+        "vision",
+        "composure",
+        "passing"
+      ],
+      "id": "equip_1773942262029_11679",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942262029
+    },
+    {
+      "name": "Elite Focus Headband",
+      "slot": "HEAD",
+      "role": "ATT",
+      "rarity": "A",
+      "power": 28,
+      "bonus": {
+        "mentality": 18,
+        "shooting": 10,
+        "pace": 6
+      },
+      "statTags": [
+        "composure",
+        "finishing",
+        "speed"
+      ],
+      "id": "equip_1773942262029_93308",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942262029
+    },
+    {
+      "name": "Leather GK Gloves",
+      "slot": "HAND",
+      "role": "GK",
+      "rarity": "B",
+      "power": 22,
+      "bonus": {
+        "defense": 14,
+        "mentality": 8,
+        "stamina": 4
+      },
+      "statTags": [
+        "tackle",
+        "reflexes",
+        "positioning"
+      ],
+      "id": "equip_1773942262029_13252",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942262029
+    },
+    {
+      "name": "Destroyer Striker Boots",
+      "slot": "FEET",
+      "role": "ATT",
+      "rarity": "S",
+      "power": 68,
+      "bonus": {
+        "shooting": 38,
+        "pace": 26,
+        "passing": 12,
+        "stamina": 10
+      },
+      "statTags": [
+        "finishing",
+        "speed",
+        "dribbling",
+        "power_shot",
+        "aerial"
+      ],
+      "id": "equip_1773942262029_63662",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942262029
+    },
+    {
+      "name": "Rookie Defender Boots",
+      "slot": "FEET",
+      "role": "DEF",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "defense": 8,
+        "stamina": 5
+      },
+      "statTags": [
+        "tackle",
+        "strength"
+      ],
+      "id": "equip_1773942262029_71946",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942262029
+    },
+    {
+      "name": "Rookie GK Gloves",
+      "slot": "HAND",
+      "role": "GK",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "defense": 6,
+        "mentality": 4
+      },
+      "statTags": [
+        "tackle",
+        "reflexes"
+      ],
+      "id": "equip_1773942262029_46178",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942262029
+    },
+    {
+      "name": "Elite Defender Boots",
+      "slot": "FEET",
+      "role": "DEF",
+      "rarity": "A",
+      "power": 36,
+      "bonus": {
+        "defense": 26,
+        "stamina": 16,
+        "pace": 8
+      },
+      "statTags": [
+        "tackle",
+        "strength",
+        "interception",
+        "speed"
+      ],
+      "id": "equip_1773942262029_70152",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942262029
+    },
+    {
+      "name": "Leather GK Gloves",
+      "slot": "HAND",
+      "role": "GK",
+      "rarity": "B",
+      "power": 22,
+      "bonus": {
+        "defense": 14,
+        "mentality": 8,
+        "stamina": 4
+      },
+      "statTags": [
+        "tackle",
+        "reflexes",
+        "positioning"
+      ],
+      "id": "equip_1773942267733_47524",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942267733
+    },
+    {
+      "name": "Iron Arm Guard",
+      "slot": "ACC",
+      "role": "DEF",
+      "rarity": "B",
+      "power": 18,
+      "bonus": {
+        "defense": 14,
+        "stamina": 6
+      },
+      "statTags": [
+        "tackle",
+        "strength"
+      ],
+      "id": "equip_1773942267733_3905",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942267733
+    },
+    {
+      "name": "Elite Defender Boots",
+      "slot": "FEET",
+      "role": "DEF",
+      "rarity": "A",
+      "power": 36,
+      "bonus": {
+        "defense": 26,
+        "stamina": 16,
+        "pace": 8
+      },
+      "statTags": [
+        "tackle",
+        "strength",
+        "interception",
+        "speed"
+      ],
+      "id": "equip_1773942267733_92633",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942267733
+    },
+    {
+      "name": "Titanium Arm Guard",
+      "slot": "ACC",
+      "role": "DEF",
+      "rarity": "A",
+      "power": 32,
+      "bonus": {
+        "defense": 22,
+        "stamina": 12,
+        "mentality": 8
+      },
+      "statTags": [
+        "tackle",
+        "strength",
+        "positioning"
+      ],
+      "id": "equip_1773942267733_29975",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942267733
+    },
+    {
+      "name": "Elite Striker Jersey",
+      "slot": "BODY",
+      "role": "ATT",
+      "rarity": "A",
+      "power": 42,
+      "bonus": {
+        "shooting": 20,
+        "pace": 16,
+        "stamina": 10,
+        "mentality": 6
+      },
+      "statTags": [
+        "finishing",
+        "agility",
+        "speed",
+        "composure"
+      ],
+      "id": "equip_1773942267733_85676",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942267733
+    },
+    {
+      "name": "Leather GK Gloves",
+      "slot": "HAND",
+      "role": "GK",
+      "rarity": "B",
+      "power": 22,
+      "bonus": {
+        "defense": 14,
+        "mentality": 8,
+        "stamina": 4
+      },
+      "statTags": [
+        "tackle",
+        "reflexes",
+        "positioning"
+      ],
+      "id": "equip_1773942267733_24770",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942267733
+    },
+    {
+      "name": "Titanium Arm Guard",
+      "slot": "ACC",
+      "role": "DEF",
+      "rarity": "A",
+      "power": 32,
+      "bonus": {
+        "defense": 22,
+        "stamina": 12,
+        "mentality": 8
+      },
+      "statTags": [
+        "tackle",
+        "strength",
+        "positioning"
+      ],
+      "id": "equip_1773942267733_55765",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942267733
+    },
+    {
+      "name": "Leather GK Gloves",
+      "slot": "HAND",
+      "role": "GK",
+      "rarity": "B",
+      "power": 22,
+      "bonus": {
+        "defense": 14,
+        "mentality": 8,
+        "stamina": 4
+      },
+      "statTags": [
+        "tackle",
+        "reflexes",
+        "positioning"
+      ],
+      "id": "equip_1773942267733_47423",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942267733
+    },
+    {
+      "name": "Rookie GK Gloves",
+      "slot": "HAND",
+      "role": "GK",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "defense": 6,
+        "mentality": 4
+      },
+      "statTags": [
+        "tackle",
+        "reflexes"
+      ],
+      "id": "equip_1773942267733_42271",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942267733
+    },
+    {
+      "name": "Focus Headband",
+      "slot": "HEAD",
+      "role": "MID",
+      "rarity": "C",
+      "power": 8,
+      "bonus": {
+        "mentality": 6,
+        "passing": 4
+      },
+      "statTags": [
+        "vision",
+        "composure"
+      ],
+      "id": "equip_1773942267733_9376",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773942267733
+    },
+    {
+      "name": "Elite Defender Boots",
+      "slot": "FEET",
+      "role": "DEF",
+      "rarity": "A",
+      "power": 36,
+      "bonus": {
+        "defense": 26,
+        "stamina": 16,
+        "pace": 8
+      },
+      "statTags": [
+        "tackle",
+        "strength",
+        "interception",
+        "speed"
+      ],
+      "id": "equip_1773952321928_93475",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773952321928
+    },
+    {
+      "name": "Rookie Defender Boots",
+      "slot": "FEET",
+      "role": "DEF",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "defense": 8,
+        "stamina": 5
+      },
+      "statTags": [
+        "tackle",
+        "strength"
+      ],
+      "id": "equip_1773952321928_36172",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773952321928
+    },
+    {
+      "name": "Rookie Mid Boots",
+      "slot": "FEET",
+      "role": "MID",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "passing": 7,
+        "stamina": 5
+      },
+      "statTags": [
+        "passing",
+        "stamina"
+      ],
+      "id": "equip_1773952321928_63603",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773952321928
+    },
+    {
+      "name": "Rookie Striker Jersey",
+      "slot": "BODY",
+      "role": "ATT",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "shooting": 6,
+        "pace": 5
+      },
+      "statTags": [
+        "finishing",
+        "agility"
+      ],
+      "id": "equip_1773952321929_24480",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773952321929
+    },
+    {
+      "name": "Turbo Striker Boots",
+      "slot": "FEET",
+      "role": "ATT",
+      "rarity": "B",
+      "power": 26,
+      "bonus": {
+        "shooting": 16,
+        "pace": 12,
+        "passing": 4
+      },
+      "statTags": [
+        "finishing",
+        "speed",
+        "dribbling"
+      ],
+      "id": "equip_1773952321929_58061",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773952321929
+    },
+    {
+      "name": "Predator Striker Boots",
+      "slot": "FEET",
+      "role": "ATT",
+      "rarity": "A",
+      "power": 46,
+      "bonus": {
+        "shooting": 26,
+        "pace": 18,
+        "passing": 8,
+        "stamina": 6
+      },
+      "statTags": [
+        "finishing",
+        "speed",
+        "dribbling",
+        "power_shot"
+      ],
+      "id": "equip_1773952321929_3806",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773952321929
+    },
+    {
+      "name": "Agility Mid Boots",
+      "slot": "FEET",
+      "role": "MID",
+      "rarity": "B",
+      "power": 22,
+      "bonus": {
+        "passing": 13,
+        "stamina": 10,
+        "pace": 5
+      },
+      "statTags": [
+        "passing",
+        "stamina",
+        "dribbling"
+      ],
+      "id": "equip_1773952321929_95611",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773952321929
+    },
+    {
+      "name": "Rookie Striker Jersey",
+      "slot": "BODY",
+      "role": "ATT",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "shooting": 6,
+        "pace": 5
+      },
+      "statTags": [
+        "finishing",
+        "agility"
+      ],
+      "id": "equip_1773952321929_85182",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773952321929
+    },
+    {
+      "name": "Steel Defender Boots",
+      "slot": "FEET",
+      "role": "DEF",
+      "rarity": "B",
+      "power": 20,
+      "bonus": {
+        "defense": 16,
+        "stamina": 10,
+        "pace": 4
+      },
+      "statTags": [
+        "tackle",
+        "strength",
+        "interception"
+      ],
+      "id": "equip_1773952321929_78614",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773952321929
+    },
+    {
+      "id": "cons_1773952340096_27714",
+      "name": "Ice Pack",
+      "type": "consumable",
+      "category": "injury",
+      "icon": "🧊",
+      "rarity": "B",
+      "price": 150,
+      "desc": "Kurangi cedera 1 match",
+      "effect": "heal_injury",
+      "value": 1,
+      "ownedAt": 1773952340096
+    },
+    {
+      "id": "cons_1773952342044_65819",
+      "name": "Energy Drink",
+      "type": "consumable",
+      "category": "stamina",
+      "icon": "⚡",
+      "rarity": "C",
+      "price": 50,
+      "desc": "Pulihkan stamina 1 pemain +40%",
+      "effect": "stamina_single",
+      "value": 40,
+      "ownedAt": 1773952342044
+    },
+    {
+      "id": "cons_1773952342244_51408",
+      "name": "Energy Drink",
+      "type": "consumable",
+      "category": "stamina",
+      "icon": "⚡",
+      "rarity": "C",
+      "price": 50,
+      "desc": "Pulihkan stamina 1 pemain +40%",
+      "effect": "stamina_single",
+      "value": 40,
+      "ownedAt": 1773952342244
+    },
+    {
+      "id": "cons_1773952342480_43636",
+      "name": "Energy Drink",
+      "type": "consumable",
+      "category": "stamina",
+      "icon": "⚡",
+      "rarity": "C",
+      "price": 50,
+      "desc": "Pulihkan stamina 1 pemain +40%",
+      "effect": "stamina_single",
+      "value": 40,
+      "ownedAt": 1773952342480
+    },
+    {
+      "id": "cons_1773952342807_89374",
+      "name": "Energy Drink",
+      "type": "consumable",
+      "category": "stamina",
+      "icon": "⚡",
+      "rarity": "C",
+      "price": 50,
+      "desc": "Pulihkan stamina 1 pemain +40%",
+      "effect": "stamina_single",
+      "value": 40,
+      "ownedAt": 1773952342807
+    },
+    {
+      "name": "Steel Defender Boots",
+      "slot": "FEET",
+      "role": "DEF",
+      "rarity": "B",
+      "power": 20,
+      "bonus": {
+        "defense": 16,
+        "stamina": 10,
+        "pace": 4
+      },
+      "statTags": [
+        "tackle",
+        "strength",
+        "interception"
+      ],
+      "id": "equip_1773953713083_80111",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773953713083
+    },
+    {
+      "name": "Rookie Mid Boots",
+      "slot": "FEET",
+      "role": "MID",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "passing": 7,
+        "stamina": 5
+      },
+      "statTags": [
+        "passing",
+        "stamina"
+      ],
+      "id": "equip_1773953713083_27695",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773953713083
+    },
+    {
+      "name": "Elite Defender Armor",
+      "slot": "BODY",
+      "role": "DEF",
+      "rarity": "A",
+      "power": 37,
+      "bonus": {
+        "defense": 28,
+        "stamina": 18,
+        "mentality": 8
+      },
+      "statTags": [
+        "strength",
+        "endurance",
+        "positioning",
+        "aerial"
+      ],
+      "id": "equip_1773953713083_33687",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773953713083
+    },
+    {
+      "name": "Rookie Defender Armor",
+      "slot": "BODY",
+      "role": "DEF",
+      "rarity": "C",
+      "power": 11,
+      "bonus": {
+        "defense": 9,
+        "stamina": 6
+      },
+      "statTags": [
+        "strength",
+        "endurance"
+      ],
+      "id": "equip_1773953713083_60305",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773953713083
+    },
+    {
+      "name": "Rookie Defender Armor",
+      "slot": "BODY",
+      "role": "DEF",
+      "rarity": "C",
+      "power": 11,
+      "bonus": {
+        "defense": 9,
+        "stamina": 6
+      },
+      "statTags": [
+        "strength",
+        "endurance"
+      ],
+      "id": "equip_1773953713084_99087",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773953713084
+    },
+    {
+      "name": "Mythic Crown",
+      "slot": "HEAD",
+      "role": "ALL",
+      "rarity": "SSR",
+      "power": 35,
+      "bonus": {
+        "mentality": 20,
+        "stamina": 15,
+        "defense": 8,
+        "shooting": 8
+      },
+      "statTags": [
+        "leadership",
+        "composure",
+        "all_round"
+      ],
+      "id": "equip_1773953713084_270",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773953713084
+    },
+    {
+      "name": "Rookie Mid Jersey",
+      "slot": "BODY",
+      "role": "MID",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "stamina": 8,
+        "passing": 4
+      },
+      "statTags": [
+        "stamina",
+        "endurance"
+      ],
+      "id": "equip_1773953713084_39546",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773953713084
+    },
+    {
+      "name": "Rookie Defender Boots",
+      "slot": "FEET",
+      "role": "DEF",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "defense": 8,
+        "stamina": 5
+      },
+      "statTags": [
+        "tackle",
+        "strength"
+      ],
+      "id": "equip_1773953713084_11606",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773953713084
+    },
+    {
+      "name": "Flash Striker Jersey",
+      "slot": "BODY",
+      "role": "ATT",
+      "rarity": "B",
+      "power": 24,
+      "bonus": {
+        "shooting": 12,
+        "pace": 10,
+        "stamina": 5
+      },
+      "statTags": [
+        "finishing",
+        "agility",
+        "speed"
+      ],
+      "id": "equip_1773953713084_72564",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773953713084
+    },
+    {
+      "name": "Turbo Striker Boots",
+      "slot": "FEET",
+      "role": "ATT",
+      "rarity": "B",
+      "power": 26,
+      "bonus": {
+        "shooting": 16,
+        "pace": 12,
+        "passing": 4
+      },
+      "statTags": [
+        "finishing",
+        "speed",
+        "dribbling"
+      ],
+      "id": "equip_1773953713084_84453",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773953713084
+    },
+    {
+      "name": "Padded Defender Armor",
+      "slot": "BODY",
+      "role": "DEF",
+      "rarity": "B",
+      "power": 21,
+      "bonus": {
+        "defense": 17,
+        "stamina": 12,
+        "mentality": 4
+      },
+      "statTags": [
+        "strength",
+        "endurance",
+        "positioning"
+      ],
+      "id": "equip_1773954139295_71381",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954139295
+    },
+    {
+      "name": "Rookie Mid Jersey",
+      "slot": "BODY",
+      "role": "MID",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "stamina": 8,
+        "passing": 4
+      },
+      "statTags": [
+        "stamina",
+        "endurance"
+      ],
+      "id": "equip_1773954139295_91763",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954139295
+    },
+    {
+      "name": "Destroyer Striker Boots",
+      "slot": "FEET",
+      "role": "ATT",
+      "rarity": "S",
+      "power": 68,
+      "bonus": {
+        "shooting": 38,
+        "pace": 26,
+        "passing": 12,
+        "stamina": 10
+      },
+      "statTags": [
+        "finishing",
+        "speed",
+        "dribbling",
+        "power_shot",
+        "aerial"
+      ],
+      "id": "equip_1773954139295_4830",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954139295
+    },
+    {
+      "name": "Focus Headband",
+      "slot": "HEAD",
+      "role": "MID",
+      "rarity": "C",
+      "power": 8,
+      "bonus": {
+        "mentality": 6,
+        "passing": 4
+      },
+      "statTags": [
+        "vision",
+        "composure"
+      ],
+      "id": "equip_1773954139295_53350",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954139295
+    },
+    {
+      "name": "Rookie Mid Jersey",
+      "slot": "BODY",
+      "role": "MID",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "stamina": 8,
+        "passing": 4
+      },
+      "statTags": [
+        "stamina",
+        "endurance"
+      ],
+      "id": "equip_1773954139295_75713",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954139295
+    },
+    {
+      "name": "Rookie Mid Boots",
+      "slot": "FEET",
+      "role": "MID",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "passing": 7,
+        "stamina": 5
+      },
+      "statTags": [
+        "passing",
+        "stamina"
+      ],
+      "id": "equip_1773954139295_5459",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954139295
+    },
+    {
+      "name": "Rookie Mid Boots",
+      "slot": "FEET",
+      "role": "MID",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "passing": 7,
+        "stamina": 5
+      },
+      "statTags": [
+        "passing",
+        "stamina"
+      ],
+      "id": "equip_1773954139295_90714",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954139295
+    },
+    {
+      "name": "Vision Mid Boots",
+      "slot": "FEET",
+      "role": "MID",
+      "rarity": "A",
+      "power": 40,
+      "bonus": {
+        "passing": 22,
+        "stamina": 16,
+        "pace": 9,
+        "shooting": 6
+      },
+      "statTags": [
+        "passing",
+        "stamina",
+        "dribbling",
+        "vision"
+      ],
+      "id": "equip_1773954139295_61587",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954139295
+    },
+    {
+      "name": "Iron Arm Guard",
+      "slot": "ACC",
+      "role": "DEF",
+      "rarity": "B",
+      "power": 18,
+      "bonus": {
+        "defense": 14,
+        "stamina": 6
+      },
+      "statTags": [
+        "tackle",
+        "strength"
+      ],
+      "id": "equip_1773954139295_29029",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954139295
+    },
+    {
+      "name": "Focus Headband",
+      "slot": "HEAD",
+      "role": "MID",
+      "rarity": "C",
+      "power": 8,
+      "bonus": {
+        "mentality": 6,
+        "passing": 4
+      },
+      "statTags": [
+        "vision",
+        "composure"
+      ],
+      "id": "equip_1773954139295_95813",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954139295
+    },
+    {
+      "name": "Elite Focus Headband",
+      "slot": "HEAD",
+      "role": "ATT",
+      "rarity": "A",
+      "power": 28,
+      "bonus": {
+        "mentality": 18,
+        "shooting": 10,
+        "pace": 6
+      },
+      "statTags": [
+        "composure",
+        "finishing",
+        "speed"
+      ],
+      "id": "equip_1773954143814_40283",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954143814
+    },
+    {
+      "name": "Rookie Striker Boots",
+      "slot": "FEET",
+      "role": "ATT",
+      "rarity": "C",
+      "power": 14,
+      "bonus": {
+        "shooting": 8,
+        "pace": 6
+      },
+      "statTags": [
+        "finishing",
+        "speed"
+      ],
+      "id": "equip_1773954143814_12993",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954143814
+    },
+    {
+      "name": "Elite Striker Jersey",
+      "slot": "BODY",
+      "role": "ATT",
+      "rarity": "A",
+      "power": 42,
+      "bonus": {
+        "shooting": 20,
+        "pace": 16,
+        "stamina": 10,
+        "mentality": 6
+      },
+      "statTags": [
+        "finishing",
+        "agility",
+        "speed",
+        "composure"
+      ],
+      "id": "equip_1773954143814_63543",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954143814
+    },
+    {
+      "name": "Rookie Defender Armor",
+      "slot": "BODY",
+      "role": "DEF",
+      "rarity": "C",
+      "power": 11,
+      "bonus": {
+        "defense": 9,
+        "stamina": 6
+      },
+      "statTags": [
+        "strength",
+        "endurance"
+      ],
+      "id": "equip_1773954143814_79013",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954143814
+    },
+    {
+      "name": "Iron Arm Guard",
+      "slot": "ACC",
+      "role": "DEF",
+      "rarity": "B",
+      "power": 18,
+      "bonus": {
+        "defense": 14,
+        "stamina": 6
+      },
+      "statTags": [
+        "tackle",
+        "strength"
+      ],
+      "id": "equip_1773954143814_44435",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954143814
+    },
+    {
+      "name": "Rookie Defender Armor",
+      "slot": "BODY",
+      "role": "DEF",
+      "rarity": "C",
+      "power": 11,
+      "bonus": {
+        "defense": 9,
+        "stamina": 6
+      },
+      "statTags": [
+        "strength",
+        "endurance"
+      ],
+      "id": "equip_1773954143814_4996",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954143814
+    },
+    {
+      "name": "Rookie Striker Jersey",
+      "slot": "BODY",
+      "role": "ATT",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "shooting": 6,
+        "pace": 5
+      },
+      "statTags": [
+        "finishing",
+        "agility"
+      ],
+      "id": "equip_1773954143814_34884",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954143814
+    },
+    {
+      "name": "Rookie Striker Boots",
+      "slot": "FEET",
+      "role": "ATT",
+      "rarity": "C",
+      "power": 14,
+      "bonus": {
+        "shooting": 8,
+        "pace": 6
+      },
+      "statTags": [
+        "finishing",
+        "speed"
+      ],
+      "id": "equip_1773954143814_38442",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954143814
+    },
+    {
+      "name": "Rookie Defender Boots",
+      "slot": "FEET",
+      "role": "DEF",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "defense": 8,
+        "stamina": 5
+      },
+      "statTags": [
+        "tackle",
+        "strength"
+      ],
+      "id": "equip_1773954143814_93381",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954143814
+    },
+    {
+      "name": "Legend Striker Jersey",
+      "slot": "BODY",
+      "role": "ATT",
+      "rarity": "S",
+      "power": 66,
+      "bonus": {
+        "shooting": 30,
+        "pace": 22,
+        "stamina": 16,
+        "mentality": 12
+      },
+      "statTags": [
+        "finishing",
+        "agility",
+        "speed",
+        "composure",
+        "leadership"
+      ],
+      "id": "equip_1773954143814_80954",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773954143814
+    },
+    {
+      "name": "Rookie GK Gloves",
+      "slot": "HAND",
+      "role": "GK",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "defense": 6,
+        "mentality": 4
+      },
+      "statTags": [
+        "tackle",
+        "reflexes"
+      ],
+      "id": "equip_1773958147113_47526",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958147113
+    },
+    {
+      "name": "Leather GK Gloves",
+      "slot": "HAND",
+      "role": "GK",
+      "rarity": "B",
+      "power": 22,
+      "bonus": {
+        "defense": 14,
+        "mentality": 8,
+        "stamina": 4
+      },
+      "statTags": [
+        "tackle",
+        "reflexes",
+        "positioning"
+      ],
+      "id": "equip_1773958147113_91610",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958147113
+    },
+    {
+      "name": "Rookie Defender Boots",
+      "slot": "FEET",
+      "role": "DEF",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "defense": 8,
+        "stamina": 5
+      },
+      "statTags": [
+        "tackle",
+        "strength"
+      ],
+      "id": "equip_1773958147113_50007",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958147113
+    },
+    {
+      "name": "Rookie GK Gloves",
+      "slot": "HAND",
+      "role": "GK",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "defense": 6,
+        "mentality": 4
+      },
+      "statTags": [
+        "tackle",
+        "reflexes"
+      ],
+      "id": "equip_1773958147113_8622",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958147113
+    },
+    {
+      "id": "cons_1773958147113_36447",
+      "name": "Repair Kit Pro",
+      "type": "consumable",
+      "category": "repair",
+      "icon": "🔨",
+      "rarity": "B",
+      "price": 180,
+      "desc": "Perbaiki durabilitas equipment +50",
+      "effect": "repair",
+      "value": 50,
+      "ownedAt": 1773958147113
+    },
+    {
+      "id": "cons_1773958147113_15951",
+      "name": "Full Restoration Kit",
+      "type": "consumable",
+      "category": "repair",
+      "icon": "⚙️",
+      "rarity": "A",
+      "price": 380,
+      "desc": "Pulihkan durabilitas penuh",
+      "effect": "repair",
+      "value": 100,
+      "ownedAt": 1773958147113
+    },
+    {
+      "id": "cons_1773958147113_75887",
+      "name": "Protection Scroll",
+      "type": "consumable",
+      "category": "upgrade",
+      "icon": "🛡️",
+      "rarity": "A",
+      "price": 280,
+      "desc": "Lindungi equipment dari hancur saat gagal upgrade",
+      "effect": "upgrade_protect",
+      "value": 1,
+      "ownedAt": 1773958147113
+    },
+    {
+      "name": "Rookie Defender Boots",
+      "slot": "FEET",
+      "role": "DEF",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "defense": 8,
+        "stamina": 5
+      },
+      "statTags": [
+        "tackle",
+        "strength"
+      ],
+      "id": "equip_1773958147113_38830",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958147113
+    },
+    {
+      "name": "Rookie GK Gloves",
+      "slot": "HAND",
+      "role": "GK",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "defense": 6,
+        "mentality": 4
+      },
+      "statTags": [
+        "tackle",
+        "reflexes"
+      ],
+      "id": "equip_1773958153811_88077",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958153811
+    },
+    {
+      "name": "Maestro Jersey",
+      "slot": "BODY",
+      "role": "MID",
+      "rarity": "S",
+      "power": 60,
+      "bonus": {
+        "stamina": 32,
+        "passing": 22,
+        "mentality": 16,
+        "pace": 10
+      },
+      "statTags": [
+        "stamina",
+        "endurance",
+        "vision",
+        "dribbling",
+        "leadership"
+      ],
+      "id": "equip_1773958153811_92417",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958153811
+    },
+    {
+      "name": "Agility Mid Boots",
+      "slot": "FEET",
+      "role": "MID",
+      "rarity": "B",
+      "power": 22,
+      "bonus": {
+        "passing": 13,
+        "stamina": 10,
+        "pace": 5
+      },
+      "statTags": [
+        "passing",
+        "stamina",
+        "dribbling"
+      ],
+      "id": "equip_1773958153811_95612",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958153811
+    },
+    {
+      "name": "Focus Headband",
+      "slot": "HEAD",
+      "role": "MID",
+      "rarity": "C",
+      "power": 8,
+      "bonus": {
+        "mentality": 6,
+        "passing": 4
+      },
+      "statTags": [
+        "vision",
+        "composure"
+      ],
+      "id": "equip_1773958153811_11825",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958153811
+    },
+    {
+      "name": "Predator Striker Boots",
+      "slot": "FEET",
+      "role": "ATT",
+      "rarity": "A",
+      "power": 46,
+      "bonus": {
+        "shooting": 26,
+        "pace": 18,
+        "passing": 8,
+        "stamina": 6
+      },
+      "statTags": [
+        "finishing",
+        "speed",
+        "dribbling",
+        "power_shot"
+      ],
+      "id": "equip_1773958153811_487",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958153811
+    },
+    {
+      "name": "Rookie Mid Boots",
+      "slot": "FEET",
+      "role": "MID",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "passing": 7,
+        "stamina": 5
+      },
+      "statTags": [
+        "passing",
+        "stamina"
+      ],
+      "id": "equip_1773958153811_27559",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958153811
+    },
+    {
+      "name": "Rookie Defender Boots",
+      "slot": "FEET",
+      "role": "DEF",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "defense": 8,
+        "stamina": 5
+      },
+      "statTags": [
+        "tackle",
+        "strength"
+      ],
+      "id": "equip_1773958153811_39893",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958153811
+    },
+    {
+      "name": "Lucky Aura Ring",
+      "slot": "ACC",
+      "role": "ALL",
+      "rarity": "SSR",
+      "power": 30,
+      "bonus": {
+        "pace": 10,
+        "passing": 10,
+        "shooting": 10,
+        "defense": 10
+      },
+      "statTags": [
+        "all_round",
+        "luck"
+      ],
+      "id": "equip_1773958153811_11332",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958153811
+    },
+    {
+      "name": "Rookie Defender Boots",
+      "slot": "FEET",
+      "role": "DEF",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "defense": 8,
+        "stamina": 5
+      },
+      "statTags": [
+        "tackle",
+        "strength"
+      ],
+      "id": "equip_1773958153811_28930",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958153811
+    },
+    {
+      "name": "Steel Defender Boots",
+      "slot": "FEET",
+      "role": "DEF",
+      "rarity": "B",
+      "power": 20,
+      "bonus": {
+        "defense": 16,
+        "stamina": 10,
+        "pace": 4
+      },
+      "statTags": [
+        "tackle",
+        "strength",
+        "interception"
+      ],
+      "id": "equip_1773958153811_95169",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958153811
+    },
+    {
+      "name": "Focus Headband",
+      "slot": "HEAD",
+      "role": "MID",
+      "rarity": "C",
+      "power": 8,
+      "bonus": {
+        "mentality": 6,
+        "passing": 4
+      },
+      "statTags": [
+        "vision",
+        "composure"
+      ],
+      "id": "equip_1773958158717_82476",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958158717
+    },
+    {
+      "name": "Playmaker Jersey",
+      "slot": "BODY",
+      "role": "MID",
+      "rarity": "A",
+      "power": 36,
+      "bonus": {
+        "stamina": 22,
+        "passing": 14,
+        "mentality": 10,
+        "pace": 6
+      },
+      "statTags": [
+        "stamina",
+        "endurance",
+        "vision",
+        "dribbling"
+      ],
+      "id": "equip_1773958158717_44968",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958158717
+    },
+    {
+      "name": "Flash Striker Jersey",
+      "slot": "BODY",
+      "role": "ATT",
+      "rarity": "B",
+      "power": 24,
+      "bonus": {
+        "shooting": 12,
+        "pace": 10,
+        "stamina": 5
+      },
+      "statTags": [
+        "finishing",
+        "agility",
+        "speed"
+      ],
+      "id": "equip_1773958158717_37413",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958158717
+    },
+    {
+      "name": "Focus Headband",
+      "slot": "HEAD",
+      "role": "MID",
+      "rarity": "C",
+      "power": 8,
+      "bonus": {
+        "mentality": 6,
+        "passing": 4
+      },
+      "statTags": [
+        "vision",
+        "composure"
+      ],
+      "id": "equip_1773958158717_35337",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958158717
+    },
+    {
+      "name": "Rookie Mid Jersey",
+      "slot": "BODY",
+      "role": "MID",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "stamina": 8,
+        "passing": 4
+      },
+      "statTags": [
+        "stamina",
+        "endurance"
+      ],
+      "id": "equip_1773958158717_23759",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958158717
+    },
+    {
+      "name": "Rookie Defender Armor",
+      "slot": "BODY",
+      "role": "DEF",
+      "rarity": "C",
+      "power": 11,
+      "bonus": {
+        "defense": 9,
+        "stamina": 6
+      },
+      "statTags": [
+        "strength",
+        "endurance"
+      ],
+      "id": "equip_1773958158717_97958",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958158717
+    },
+    {
+      "name": "Rookie Defender Boots",
+      "slot": "FEET",
+      "role": "DEF",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "defense": 8,
+        "stamina": 5
+      },
+      "statTags": [
+        "tackle",
+        "strength"
+      ],
+      "id": "equip_1773958158717_43833",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958158717
+    },
+    {
+      "name": "Rookie Striker Jersey",
+      "slot": "BODY",
+      "role": "ATT",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "shooting": 6,
+        "pace": 5
+      },
+      "statTags": [
+        "finishing",
+        "agility"
+      ],
+      "id": "equip_1773958158717_99013",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958158717
+    },
+    {
+      "name": "Iron Arm Guard",
+      "slot": "ACC",
+      "role": "DEF",
+      "rarity": "B",
+      "power": 18,
+      "bonus": {
+        "defense": 14,
+        "stamina": 6
+      },
+      "statTags": [
+        "tackle",
+        "strength"
+      ],
+      "id": "equip_1773958158717_26140",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958158717
+    },
+    {
+      "name": "Rookie Striker Boots",
+      "slot": "FEET",
+      "role": "ATT",
+      "rarity": "C",
+      "power": 14,
+      "bonus": {
+        "shooting": 8,
+        "pace": 6
+      },
+      "statTags": [
+        "finishing",
+        "speed"
+      ],
+      "id": "equip_1773958158717_70520",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773958158717
+    },
+    {
+      "name": "Rookie Striker Boots",
+      "slot": "FEET",
+      "role": "ATT",
+      "rarity": "C",
+      "power": 14,
+      "bonus": {
+        "shooting": 8,
+        "pace": 6
+      },
+      "statTags": [
+        "finishing",
+        "speed"
+      ],
+      "id": "equip_1773961025209_81352",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773961025209
+    },
+    {
+      "name": "Rookie Striker Jersey",
+      "slot": "BODY",
+      "role": "ATT",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "shooting": 6,
+        "pace": 5
+      },
+      "statTags": [
+        "finishing",
+        "agility"
+      ],
+      "id": "equip_1773961025209_53033",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773961025209
+    },
+    {
+      "name": "Rookie Striker Jersey",
+      "slot": "BODY",
+      "role": "ATT",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "shooting": 6,
+        "pace": 5
+      },
+      "statTags": [
+        "finishing",
+        "agility"
+      ],
+      "id": "equip_1773961025209_59879",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773961025209
+    },
+    {
+      "name": "Leather GK Gloves",
+      "slot": "HAND",
+      "role": "GK",
+      "rarity": "B",
+      "power": 22,
+      "bonus": {
+        "defense": 14,
+        "mentality": 8,
+        "stamina": 4
+      },
+      "statTags": [
+        "tackle",
+        "reflexes",
+        "positioning"
+      ],
+      "id": "equip_1773961025209_6610",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773961025209
+    },
+    {
+      "name": "Rookie GK Gloves",
+      "slot": "HAND",
+      "role": "GK",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "defense": 6,
+        "mentality": 4
+      },
+      "statTags": [
+        "tackle",
+        "reflexes"
+      ],
+      "id": "equip_1773961025209_44092",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773961025209
+    },
+    {
+      "name": "Rookie Defender Boots",
+      "slot": "FEET",
+      "role": "DEF",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "defense": 8,
+        "stamina": 5
+      },
+      "statTags": [
+        "tackle",
+        "strength"
+      ],
+      "id": "equip_1773961025209_91692",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773961025209
+    },
+    {
+      "name": "Focus Headband",
+      "slot": "HEAD",
+      "role": "MID",
+      "rarity": "C",
+      "power": 8,
+      "bonus": {
+        "mentality": 6,
+        "passing": 4
+      },
+      "statTags": [
+        "vision",
+        "composure"
+      ],
+      "id": "equip_1773961025209_34218",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773961025209
+    },
+    {
+      "name": "Focus Headband",
+      "slot": "HEAD",
+      "role": "MID",
+      "rarity": "C",
+      "power": 8,
+      "bonus": {
+        "mentality": 6,
+        "passing": 4
+      },
+      "statTags": [
+        "vision",
+        "composure"
+      ],
+      "id": "equip_1773961025209_12678",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773961025209
+    },
+    {
+      "name": "Vision Mid Boots",
+      "slot": "FEET",
+      "role": "MID",
+      "rarity": "A",
+      "power": 40,
+      "bonus": {
+        "passing": 22,
+        "stamina": 16,
+        "pace": 9,
+        "shooting": 6
+      },
+      "statTags": [
+        "passing",
+        "stamina",
+        "dribbling",
+        "vision"
+      ],
+      "id": "equip_1773961025209_17910",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773961025209
+    },
+    {
+      "name": "Maestro Mid Boots",
+      "slot": "FEET",
+      "role": "MID",
+      "rarity": "S",
+      "power": 64,
+      "bonus": {
+        "passing": 34,
+        "stamina": 24,
+        "pace": 14,
+        "shooting": 10
+      },
+      "statTags": [
+        "passing",
+        "stamina",
+        "dribbling",
+        "vision",
+        "leadership"
+      ],
+      "id": "equip_1773961025209_77049",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1773961025209
+    },
+    {
+      "name": "Rookie Striker Jersey",
+      "slot": "BODY",
+      "role": "ATT",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "shooting": 6,
+        "pace": 5
+      },
+      "statTags": [
+        "finishing",
+        "agility"
+      ],
+      "id": "equip_1774016886918_89631",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1774016886918
+    },
+    {
+      "name": "Legend Defender Boots",
+      "slot": "FEET",
+      "role": "DEF",
+      "rarity": "S",
+      "power": 58,
+      "bonus": {
+        "defense": 40,
+        "stamina": 24,
+        "pace": 14
+      },
+      "statTags": [
+        "tackle",
+        "strength",
+        "interception",
+        "speed",
+        "leadership"
+      ],
+      "id": "equip_1774016886918_93302",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1774016886918
+    },
+    {
+      "name": "Rookie Striker Boots",
+      "slot": "FEET",
+      "role": "ATT",
+      "rarity": "C",
+      "power": 14,
+      "bonus": {
+        "shooting": 8,
+        "pace": 6
+      },
+      "statTags": [
+        "finishing",
+        "speed"
+      ],
+      "id": "equip_1774016886918_40618",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1774016886918
+    },
+    {
+      "name": "Rookie GK Gloves",
+      "slot": "HAND",
+      "role": "GK",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "defense": 6,
+        "mentality": 4
+      },
+      "statTags": [
+        "tackle",
+        "reflexes"
+      ],
+      "id": "equip_1774016886918_9845",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1774016886918
+    },
+    {
+      "name": "Flash Striker Jersey",
+      "slot": "BODY",
+      "role": "ATT",
+      "rarity": "B",
+      "power": 24,
+      "bonus": {
+        "shooting": 12,
+        "pace": 10,
+        "stamina": 5
+      },
+      "statTags": [
+        "finishing",
+        "agility",
+        "speed"
+      ],
+      "id": "equip_1774016886918_89136",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1774016886918
+    },
+    {
+      "name": "Rookie Mid Jersey",
+      "slot": "BODY",
+      "role": "MID",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "stamina": 8,
+        "passing": 4
+      },
+      "statTags": [
+        "stamina",
+        "endurance"
+      ],
+      "id": "equip_1774016886918_82453",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1774016886918
+    },
+    {
+      "name": "Rookie Mid Boots",
+      "slot": "FEET",
+      "role": "MID",
+      "rarity": "C",
+      "power": 12,
+      "bonus": {
+        "passing": 7,
+        "stamina": 5
+      },
+      "statTags": [
+        "passing",
+        "stamina"
+      ],
+      "id": "equip_1774016886918_58779",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1774016886918
+    },
+    {
+      "name": "Rookie Striker Boots",
+      "slot": "FEET",
+      "role": "ATT",
+      "rarity": "C",
+      "power": 14,
+      "bonus": {
+        "shooting": 8,
+        "pace": 6
+      },
+      "statTags": [
+        "finishing",
+        "speed"
+      ],
+      "id": "equip_1774016886918_44138",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1774016886918
+    },
+    {
+      "name": "Rookie Mid Jersey",
+      "slot": "BODY",
+      "role": "MID",
+      "rarity": "C",
+      "power": 10,
+      "bonus": {
+        "stamina": 8,
+        "passing": 4
+      },
+      "statTags": [
+        "stamina",
+        "endurance"
+      ],
+      "id": "equip_1774016886918_59114",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1774016886918
+    },
+    {
+      "name": "Iron Arm Guard",
+      "slot": "ACC",
+      "role": "DEF",
+      "rarity": "B",
+      "power": 18,
+      "bonus": {
+        "defense": 14,
+        "stamina": 6
+      },
+      "statTags": [
+        "tackle",
+        "strength"
+      ],
+      "id": "equip_1774016886918_87511",
+      "price": 0,
+      "hp": 100,
+      "maxHp": 100,
+      "upgrade": 0,
+      "equippedBy": null,
+      "equippedSlot": null,
+      "ownedAt": 1774016886918
+    }
+  ],
+  "lineup": {
+    "GK": 1,
+    "LB": 3,
+    "CB1": 4,
+    "CB2": "fa_1773961031896_0",
+    "RB": 2,
+    "DM1": 6,
+    "DM2": 8,
+    "AM1": "tp_1773946618457_98900",
+    "AM2": 7,
+    "AM3": "tp_1773910250318_96249",
+    "ST": 9
+  },
+  "lastGacha": 1774016886918,
+  "winCount": 43,
+  "loseCount": 72,
+  "drawCount": 76,
+  "liga": {
+    "season": 9,
+    "schedule": [
+      {
+        "name": "PSIS Semarang",
+        "logo": "⚫",
+        "strength": 0.92,
+        "played": true,
+        "result": "WIN",
+        "score": "1-0",
+        "highlights": {
+          "goalEvents": [
+            {
+              "minute": 21,
+              "team": "home",
+              "scorerName": "Kevin Maestro",
+              "assistName": null,
+              "scorerId": 8
+            }
+          ],
+          "cardEvents": [
+            {
+              "playerName": "Yoga Pratama",
+              "type": "yellow",
+              "minute": 23,
+              "team": "home"
+            },
+            {
+              "playerName": "Kevin Maestro",
+              "type": "yellow",
+              "minute": 55,
+              "team": "home"
+            },
+            {
+              "playerName": "Marc Klok",
+              "type": "yellow",
+              "minute": 37,
+              "team": "home"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Persib Bandung",
+        "logo": "💙",
+        "strength": 1.05,
+        "played": true,
+        "result": "DRAW",
+        "score": "1-1",
+        "highlights": {
+          "goalEvents": [
+            {
+              "minute": 20,
+              "team": "home",
+              "scorerName": "Kevin Maestro",
+              "assistName": "Rizky Firmanto",
+              "scorerId": 8
+            },
+            {
+              "minute": 40,
+              "team": "away",
+              "scorerName": "Tyronne del Pino",
+              "assistName": null
+            }
+          ],
+          "cardEvents": [
+            {
+              "playerName": "Faris Hakim",
+              "type": "yellow",
+              "minute": 72,
+              "team": "home"
+            },
+            {
+              "playerName": "Beckham Putra",
+              "type": "yellow",
+              "minute": 24,
+              "team": "away"
+            }
+          ]
+        }
+      },
+      {
+        "name": "PSS Sleman",
+        "logo": "🟡",
+        "strength": 0.9,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "name": "Madura United",
+        "logo": "🔴",
+        "strength": 0.95,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "name": "Persebaya Surabaya",
+        "logo": "🟢",
+        "strength": 1.08,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "name": "Arema FC",
+        "logo": "🔵",
+        "strength": 1,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "name": "Borneo FC",
+        "logo": "🟠",
+        "strength": 0.88,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "name": "PSM Makassar",
+        "logo": "🔴",
+        "strength": 1.03,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "name": "Barito Putera",
+        "logo": "🟣",
+        "strength": 0.85,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "name": "Dewa United",
+        "logo": "🟤",
+        "strength": 0.93,
+        "played": false,
+        "result": null,
+        "score": null
+      }
+    ],
+    "currentMatch": 2,
+    "myPoints": 4,
+    "myGoals": 2,
+    "finished": false,
+    "reward": 0,
+    "premiumReward": 0,
+    "aiRoundDone": {
+      "matchday_undefined": true
+    },
+    "aiResults": [
+      {
+        "home": "Madura United",
+        "away": "Borneo FC",
+        "hg": 0,
+        "ag": 1,
+        "goalEvents": [
+          {
+            "minute": 44,
+            "team": "away",
+            "scorerName": "Irfan Jaya",
+            "assistName": null,
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Novan Sasongko",
+            "type": "yellow",
+            "minute": 39,
+            "team": "home"
+          },
+          {
+            "playerName": "Dony Tri Pamungkas",
+            "type": "yellow",
+            "minute": 47,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "PSS Sleman",
+        "away": "Arema FC",
+        "hg": 0,
+        "ag": 0,
+        "goalEvents": [],
+        "cardEvents": [
+          {
+            "playerName": "Ricky Cawor",
+            "type": "yellow",
+            "minute": 45,
+            "team": "home"
+          }
+        ]
+      },
+      {
+        "home": "PSM Makassar",
+        "away": "Persebaya Surabaya",
+        "hg": 0,
+        "ag": 0,
+        "goalEvents": [],
+        "cardEvents": [
+          {
+            "playerName": "Yuran Fernandes",
+            "type": "yellow",
+            "minute": 76,
+            "team": "home"
+          },
+          {
+            "playerName": "Everton Nascimento",
+            "type": "yellow",
+            "minute": 70,
+            "team": "home"
+          },
+          {
+            "playerName": "Paulo Victor",
+            "type": "yellow",
+            "minute": 79,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "Persib Bandung",
+        "away": "Dewa United",
+        "hg": 1,
+        "ag": 0,
+        "goalEvents": [
+          {
+            "minute": 15,
+            "team": "home",
+            "scorerName": "Ardi Idrus",
+            "assistName": "Alberto Rodriguez",
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Ardi Idrus",
+            "type": "yellow",
+            "minute": 77,
+            "team": "home"
+          },
+          {
+            "playerName": "Ronaldo Kwateh",
+            "type": "red",
+            "minute": 59,
+            "team": "away"
+          }
+        ]
+      }
+    ],
+    "aiMatchCounts": {
+      "Madura United": 1,
+      "Borneo FC": 1,
+      "PSS Sleman": 1,
+      "Arema FC": 1,
+      "PSM Makassar": 1,
+      "Persebaya Surabaya": 1,
+      "Persib Bandung": 1,
+      "Dewa United": 1
+    },
+    "topScorers": {
+      "7": {
+        "name": "Aldi Nugroho",
+        "goals": 1,
+        "teamLabel": "my"
+      },
+      "8": {
+        "name": "Kevin Maestro",
+        "goals": 2,
+        "teamLabel": "my"
+      },
+      "ai_Irfan Jaya": {
+        "name": "Irfan Jaya",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Ardi Idrus": {
+        "name": "Ardi Idrus",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Tyronne del Pino": {
+        "name": "Tyronne del Pino",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Victor Igbonefo": {
+        "name": "Victor Igbonefo",
+        "goals": 2,
+        "teamLabel": "ai"
+      },
+      "fa_1773961031896_0": {
+        "name": "Otavio Dutra",
+        "goals": 1,
+        "teamLabel": "my"
+      },
+      "ai_Bagas Adi": {
+        "name": "Bagas Adi",
+        "goals": 1,
+        "teamLabel": "ai"
+      }
+    },
+    "topAssists": {
+      "6": {
+        "name": "Rizky Firmanto",
+        "assists": 1,
+        "teamLabel": "my"
+      },
+      "10": {
+        "name": "Dimas Arya",
+        "assists": 1,
+        "teamLabel": "my"
+      },
+      "ai_Alberto Rodriguez": {
+        "name": "Alberto Rodriguez",
+        "assists": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Sani Rizki": {
+        "name": "Sani Rizki",
+        "assists": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Sylvano Comvalius": {
+        "name": "Sylvano Comvalius",
+        "assists": 1,
+        "teamLabel": "ai"
+      }
+    },
+    "topCards": {
+      "3": {
+        "name": "Bagas Wicaksono",
+        "yellow": 2,
+        "red": 0
+      },
+      "4": {
+        "name": "Faris Hakim",
+        "yellow": 1,
+        "red": 0
+      },
+      "5": {
+        "name": "Yoga Pratama",
+        "yellow": 1,
+        "red": 0
+      },
+      "8": {
+        "name": "Kevin Maestro",
+        "yellow": 2,
+        "red": 0
+      },
+      "10": {
+        "name": "Dimas Arya",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Novan Sasongko": {
+        "name": "Novan Sasongko",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Dony Tri Pamungkas": {
+        "name": "Dony Tri Pamungkas",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Ricky Cawor": {
+        "name": "Ricky Cawor",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Yuran Fernandes": {
+        "name": "Yuran Fernandes",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Everton Nascimento": {
+        "name": "Everton Nascimento",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Paulo Victor": {
+        "name": "Paulo Victor",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Ardi Idrus": {
+        "name": "Ardi Idrus",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Ronaldo Kwateh": {
+        "name": "Ronaldo Kwateh",
+        "yellow": 0,
+        "red": 1
+      },
+      "fa_1773910491415_2": {
+        "name": "Marc Klok",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Beckham Putra": {
+        "name": "Beckham Putra",
+        "yellow": 1,
+        "red": 0
+      },
+      "tp_1773946618457_98900": {
+        "name": "Pandu Wijaya",
+        "yellow": 2,
+        "red": 0
+      },
+      "ai_Bagas Adi": {
+        "name": "Bagas Adi",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Alberto Goncalves": {
+        "name": "Alberto Goncalves",
+        "yellow": 0,
+        "red": 1
+      },
+      "ai_Osvaldo Haay": {
+        "name": "Osvaldo Haay",
+        "yellow": 1,
+        "red": 0
+      }
+    }
+  },
+  "ligaHistory": [
+    {
+      "season": 8,
+      "rank": 1,
+      "points": 13,
+      "reward": 300,
+      "premBonus": 6,
+      "date": "20/3/2026"
+    },
+    {
+      "season": 7,
+      "rank": 3,
+      "points": 15,
+      "reward": 300,
+      "premBonus": 6,
+      "date": "20/3/2026"
+    },
+    {
+      "season": 6,
+      "rank": 8,
+      "points": 8,
+      "reward": 100,
+      "premBonus": 6,
+      "date": "20/3/2026"
+    },
+    {
+      "season": 5,
+      "rank": 12,
+      "points": 6,
+      "reward": 100,
+      "premBonus": 6,
+      "date": "20/3/2026"
+    },
+    {
+      "season": 4,
+      "rank": 8,
+      "points": 12,
+      "reward": 300,
+      "premBonus": 6,
+      "date": "20/3/2026"
+    },
+    {
+      "season": 3,
+      "rank": 7,
+      "points": 13,
+      "reward": 300,
+      "premBonus": 6,
+      "date": "20/3/2026"
+    },
+    {
+      "season": 2,
+      "rank": 11,
+      "points": 8,
+      "reward": 100,
+      "premBonus": 6,
+      "date": "20/3/2026"
+    },
+    {
+      "season": 1,
+      "rank": 11,
+      "points": 8,
+      "reward": 100,
+      "premBonus": 6,
+      "date": "19/3/2026"
+    }
+  ],
+  "career": {
+    "seasonNum": 4,
+    "division": "Divisi 2",
+    "schedule": [
+      {
+        "matchday": 1,
+        "club": {
+          "id": "pss",
+          "name": "PSS Sleman",
+          "city": "Sleman",
+          "logo": "🟡",
+          "str": 0.9,
+          "stadium": "Maguwoharjo"
+        },
+        "isHome": true,
+        "played": true,
+        "result": "DRAW",
+        "score": "1-1",
+        "myGoals": 1,
+        "highlights": {
+          "goalEvents": [
+            {
+              "minute": 43,
+              "team": "home",
+              "scorerName": "Ilham Rio Fahmi",
+              "assistName": null,
+              "scorerId": "npc_Ilham Rio Fahmi"
+            },
+            {
+              "minute": 65,
+              "team": "away",
+              "scorerName": "Derry Rachman",
+              "assistName": "Hokky Caraka"
+            }
+          ],
+          "cardEvents": [
+            {
+              "playerName": "Firza Andika",
+              "type": "red",
+              "minute": 23,
+              "team": "home"
+            },
+            {
+              "playerName": "Bagus Nirwanto",
+              "type": "yellow",
+              "minute": 63,
+              "team": "away"
+            },
+            {
+              "playerName": "Yevhen Bokhashvili",
+              "type": "yellow",
+              "minute": 54,
+              "team": "away"
+            }
+          ]
+        },
+        "opponentGoals": 1
+      },
+      {
+        "matchday": 2,
+        "club": {
+          "id": "persita",
+          "name": "Persita Tangerang",
+          "city": "Tangerang",
+          "logo": "🟣",
+          "str": 0.88,
+          "stadium": "Sport Center"
+        },
+        "isHome": false,
+        "played": true,
+        "result": "WIN",
+        "score": "1-0",
+        "myGoals": 1,
+        "highlights": {
+          "goalEvents": [
+            {
+              "minute": 67,
+              "team": "home",
+              "scorerName": "Marko Simic",
+              "assistName": "Syahrian Abimanyu",
+              "scorerId": "npc_Marko Simic"
+            }
+          ],
+          "cardEvents": [
+            {
+              "playerName": "Yustinus Pae",
+              "type": "yellow",
+              "minute": 57,
+              "team": "away"
+            },
+            {
+              "playerName": "Bagas Adi",
+              "type": "yellow",
+              "minute": 74,
+              "team": "away"
+            },
+            {
+              "playerName": "Alberto Goncalves",
+              "type": "yellow",
+              "minute": 53,
+              "team": "away"
+            }
+          ]
+        },
+        "opponentGoals": 0
+      },
+      {
+        "matchday": 3,
+        "club": {
+          "id": "persis",
+          "name": "Persis Solo",
+          "city": "Solo",
+          "logo": "🔵",
+          "str": 0.92,
+          "stadium": "Manahan"
+        },
+        "isHome": true,
+        "played": true,
+        "result": "DRAW",
+        "score": "1-1",
+        "myGoals": 1,
+        "highlights": {
+          "goalEvents": [
+            {
+              "minute": 29,
+              "team": "home",
+              "scorerName": "michaeldimaz",
+              "assistName": "Hansamu Yama",
+              "scorerId": 9
+            },
+            {
+              "minute": 49,
+              "team": "away",
+              "scorerName": "Asnawi Mangkualam",
+              "assistName": null
+            }
+          ],
+          "cardEvents": [
+            {
+              "playerName": "michaeldimaz",
+              "type": "yellow",
+              "minute": 47,
+              "team": "home"
+            },
+            {
+              "playerName": "Syahrian Abimanyu",
+              "type": "yellow",
+              "minute": 37,
+              "team": "home"
+            },
+            {
+              "playerName": "Witan Sulaeman",
+              "type": "yellow",
+              "minute": 28,
+              "team": "home"
+            }
+          ]
+        },
+        "opponentGoals": 1
+      },
+      {
+        "matchday": 4,
+        "club": {
+          "id": "dewa",
+          "name": "Dewa United",
+          "city": "Tangerang",
+          "logo": "⚫",
+          "str": 0.87,
+          "stadium": "Indomilk Arena"
+        },
+        "isHome": false,
+        "played": true,
+        "result": "WIN",
+        "score": "1-0",
+        "myGoals": 1,
+        "highlights": {
+          "goalEvents": [
+            {
+              "minute": 30,
+              "team": "home",
+              "scorerName": "Andritany Ardhiyasa",
+              "assistName": "Witan Sulaeman",
+              "scorerId": "npc_Andritany Ardhiyasa"
+            }
+          ],
+          "cardEvents": [
+            {
+              "playerName": "Maciej Gajos",
+              "type": "yellow",
+              "minute": 23,
+              "team": "home"
+            },
+            {
+              "playerName": "Edo Febriansah",
+              "type": "yellow",
+              "minute": 30,
+              "team": "away"
+            },
+            {
+              "playerName": "Ricky Kambuaya",
+              "type": "red",
+              "minute": 75,
+              "team": "away"
+            },
+            {
+              "playerName": "Karim Rossi",
+              "type": "yellow",
+              "minute": 31,
+              "team": "away"
+            }
+          ]
+        },
+        "opponentGoals": 0
+      },
+      {
+        "matchday": 5,
+        "club": {
+          "id": "barito",
+          "name": "Barito Putera",
+          "city": "Banjarmasin",
+          "logo": "🟢",
+          "str": 0.85,
+          "stadium": "17 Mei"
+        },
+        "isHome": true,
+        "played": true,
+        "result": "WIN",
+        "score": "1-0",
+        "myGoals": 1,
+        "highlights": {
+          "goalEvents": [
+            {
+              "minute": 52,
+              "team": "home",
+              "scorerName": "Syahrian Abimanyu",
+              "assistName": null,
+              "scorerId": "npc_Syahrian Abimanyu"
+            }
+          ],
+          "cardEvents": [
+            {
+              "playerName": "Ilham Rio Fahmi",
+              "type": "yellow",
+              "minute": 22,
+              "team": "home"
+            }
+          ]
+        },
+        "opponentGoals": 0
+      },
+      {
+        "matchday": 6,
+        "club": {
+          "id": "rans",
+          "name": "RANS Nusantara",
+          "city": "Jakarta",
+          "logo": "🔴",
+          "str": 0.89,
+          "stadium": "Pakansari"
+        },
+        "isHome": false,
+        "played": true,
+        "result": "LOSE",
+        "score": "1-2",
+        "myGoals": 1,
+        "highlights": {
+          "goalEvents": [
+            {
+              "minute": 29,
+              "team": "away",
+              "scorerName": "Yustinus Pae",
+              "assistName": null
+            },
+            {
+              "minute": 40,
+              "team": "away",
+              "scorerName": "Septian David",
+              "assistName": null
+            },
+            {
+              "minute": 54,
+              "team": "home",
+              "scorerName": "Maciej Gajos",
+              "assistName": null,
+              "scorerId": "npc_Maciej Gajos"
+            }
+          ],
+          "cardEvents": [
+            {
+              "playerName": "Firza Andika",
+              "type": "yellow",
+              "minute": 46,
+              "team": "home"
+            }
+          ]
+        },
+        "opponentGoals": 2
+      },
+      {
+        "matchday": 7,
+        "club": {
+          "id": "persikabo",
+          "name": "Persikabo 1973",
+          "city": "Bogor",
+          "logo": "🟢",
+          "str": 0.83,
+          "stadium": "Pakansari"
+        },
+        "isHome": true,
+        "played": true,
+        "result": "DRAW",
+        "score": "0-0",
+        "myGoals": 0,
+        "highlights": {
+          "goalEvents": [],
+          "cardEvents": []
+        },
+        "opponentGoals": 0
+      },
+      {
+        "matchday": 8,
+        "club": {
+          "id": "persik",
+          "name": "Persik Kediri",
+          "city": "Kediri",
+          "logo": "🟡",
+          "str": 0.86,
+          "stadium": "Brawijaya"
+        },
+        "isHome": false,
+        "played": true,
+        "result": "DRAW",
+        "score": "1-1",
+        "myGoals": 1,
+        "highlights": {
+          "goalEvents": [
+            {
+              "minute": 33,
+              "team": "away",
+              "scorerName": "Jonathan Cantillana",
+              "assistName": "Diego Assis"
+            },
+            {
+              "minute": 84,
+              "team": "home",
+              "scorerName": "Firza Andika",
+              "assistName": null,
+              "scorerId": "npc_Firza Andika"
+            }
+          ],
+          "cardEvents": [
+            {
+              "playerName": "Marko Simic",
+              "type": "yellow",
+              "minute": 64,
+              "team": "home"
+            }
+          ]
+        },
+        "opponentGoals": 1
+      },
+      {
+        "matchday": 9,
+        "club": {
+          "id": "psgc",
+          "name": "PSGC Ciamis",
+          "city": "Ciamis",
+          "logo": "🔵",
+          "str": 0.82,
+          "stadium": "Galuh"
+        },
+        "isHome": true,
+        "played": true,
+        "result": "WIN",
+        "score": "2-0",
+        "myGoals": 2,
+        "highlights": {
+          "goalEvents": [
+            {
+              "minute": 78,
+              "team": "home",
+              "scorerName": "Andritany Ardhiyasa",
+              "assistName": "Hansamu Yama",
+              "scorerId": "npc_Andritany Ardhiyasa"
+            },
+            {
+              "minute": 82,
+              "team": "home",
+              "scorerName": "Riko Simanjuntak",
+              "assistName": "michaeldimaz",
+              "scorerId": "npc_Riko Simanjuntak"
+            }
+          ],
+          "cardEvents": [
+            {
+              "playerName": "Hansamu Yama",
+              "type": "yellow",
+              "minute": 54,
+              "team": "home"
+            },
+            {
+              "playerName": "Firza Andika",
+              "type": "yellow",
+              "minute": 48,
+              "team": "home"
+            },
+            {
+              "playerName": "Riko Simanjuntak",
+              "type": "yellow",
+              "minute": 67,
+              "team": "home"
+            },
+            {
+              "playerName": "Witan Sulaeman",
+              "type": "yellow",
+              "minute": 33,
+              "team": "home"
+            }
+          ]
+        },
+        "opponentGoals": 0
+      },
+      {
+        "matchday": 10,
+        "club": {
+          "id": "kalteng",
+          "name": "Kalteng Putra",
+          "city": "Palangkaraya",
+          "logo": "🟠",
+          "str": 0.84,
+          "stadium": "Tuah Pahoe"
+        },
+        "isHome": false,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "matchday": 11,
+        "club": {
+          "id": "pss",
+          "name": "PSS Sleman",
+          "city": "Sleman",
+          "logo": "🟡",
+          "str": 0.9,
+          "stadium": "Maguwoharjo"
+        },
+        "isHome": false,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "matchday": 12,
+        "club": {
+          "id": "persita",
+          "name": "Persita Tangerang",
+          "city": "Tangerang",
+          "logo": "🟣",
+          "str": 0.88,
+          "stadium": "Sport Center"
+        },
+        "isHome": true,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "matchday": 13,
+        "club": {
+          "id": "persis",
+          "name": "Persis Solo",
+          "city": "Solo",
+          "logo": "🔵",
+          "str": 0.92,
+          "stadium": "Manahan"
+        },
+        "isHome": false,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "matchday": 14,
+        "club": {
+          "id": "dewa",
+          "name": "Dewa United",
+          "city": "Tangerang",
+          "logo": "⚫",
+          "str": 0.87,
+          "stadium": "Indomilk Arena"
+        },
+        "isHome": true,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "matchday": 15,
+        "club": {
+          "id": "barito",
+          "name": "Barito Putera",
+          "city": "Banjarmasin",
+          "logo": "🟢",
+          "str": 0.85,
+          "stadium": "17 Mei"
+        },
+        "isHome": false,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "matchday": 16,
+        "club": {
+          "id": "rans",
+          "name": "RANS Nusantara",
+          "city": "Jakarta",
+          "logo": "🔴",
+          "str": 0.89,
+          "stadium": "Pakansari"
+        },
+        "isHome": true,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "matchday": 17,
+        "club": {
+          "id": "persikabo",
+          "name": "Persikabo 1973",
+          "city": "Bogor",
+          "logo": "🟢",
+          "str": 0.83,
+          "stadium": "Pakansari"
+        },
+        "isHome": false,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "matchday": 18,
+        "club": {
+          "id": "persik",
+          "name": "Persik Kediri",
+          "city": "Kediri",
+          "logo": "🟡",
+          "str": 0.86,
+          "stadium": "Brawijaya"
+        },
+        "isHome": true,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "matchday": 19,
+        "club": {
+          "id": "psgc",
+          "name": "PSGC Ciamis",
+          "city": "Ciamis",
+          "logo": "🔵",
+          "str": 0.82,
+          "stadium": "Galuh"
+        },
+        "isHome": false,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "matchday": 20,
+        "club": {
+          "id": "kalteng",
+          "name": "Kalteng Putra",
+          "city": "Palangkaraya",
+          "logo": "🟠",
+          "str": 0.84,
+          "stadium": "Tuah Pahoe"
+        },
+        "isHome": true,
+        "played": false,
+        "result": null,
+        "score": null
+      }
+    ],
+    "currentMatchday": 9,
+    "standings": [
+      {
+        "id": "rans",
+        "name": "RANS Nusantara",
+        "logo": "🔴",
+        "played": 8,
+        "won": 5,
+        "drawn": 2,
+        "lost": 1,
+        "goalsFor": 7,
+        "goalsAgainst": 3,
+        "points": 17,
+        "gd": 4,
+        "isMe": false
+      },
+      {
+        "id": "me",
+        "name": "Persija Jakarta",
+        "logo": "⭐",
+        "played": 9,
+        "won": 4,
+        "drawn": 4,
+        "lost": 1,
+        "goalsFor": 9,
+        "goalsAgainst": 5,
+        "points": 16,
+        "gd": 4,
+        "isMe": true
+      },
+      {
+        "id": "pss",
+        "name": "PSS Sleman",
+        "logo": "🟡",
+        "played": 8,
+        "won": 4,
+        "drawn": 3,
+        "lost": 1,
+        "goalsFor": 7,
+        "goalsAgainst": 3,
+        "points": 15,
+        "gd": 4,
+        "isMe": false
+      },
+      {
+        "id": "kalteng",
+        "name": "Kalteng Putra",
+        "logo": "🟠",
+        "played": 8,
+        "won": 4,
+        "drawn": 1,
+        "lost": 3,
+        "goalsFor": 8,
+        "goalsAgainst": 6,
+        "points": 13,
+        "gd": 2,
+        "isMe": false
+      },
+      {
+        "id": "dewa",
+        "name": "Dewa United",
+        "logo": "⚫",
+        "played": 8,
+        "won": 3,
+        "drawn": 2,
+        "lost": 3,
+        "goalsFor": 6,
+        "goalsAgainst": 5,
+        "points": 11,
+        "gd": 1,
+        "isMe": false
+      },
+      {
+        "id": "persis",
+        "name": "Persis Solo",
+        "logo": "🔵",
+        "played": 7,
+        "won": 3,
+        "drawn": 2,
+        "lost": 2,
+        "goalsFor": 4,
+        "goalsAgainst": 3,
+        "points": 11,
+        "gd": 1,
+        "isMe": false
+      },
+      {
+        "id": "persikabo",
+        "name": "Persikabo 1973",
+        "logo": "🟢",
+        "played": 8,
+        "won": 3,
+        "drawn": 2,
+        "lost": 3,
+        "goalsFor": 4,
+        "goalsAgainst": 4,
+        "points": 11,
+        "gd": 0,
+        "isMe": false
+      },
+      {
+        "id": "persik",
+        "name": "Persik Kediri",
+        "logo": "🟡",
+        "played": 9,
+        "won": 3,
+        "drawn": 2,
+        "lost": 4,
+        "goalsFor": 7,
+        "goalsAgainst": 9,
+        "points": 11,
+        "gd": -2,
+        "isMe": false
+      },
+      {
+        "id": "psgc",
+        "name": "PSGC Ciamis",
+        "logo": "🔵",
+        "played": 8,
+        "won": 1,
+        "drawn": 3,
+        "lost": 4,
+        "goalsFor": 2,
+        "goalsAgainst": 6,
+        "points": 6,
+        "gd": -4,
+        "isMe": false
+      },
+      {
+        "id": "barito",
+        "name": "Barito Putera",
+        "logo": "🟢",
+        "played": 8,
+        "won": 1,
+        "drawn": 3,
+        "lost": 4,
+        "goalsFor": 3,
+        "goalsAgainst": 8,
+        "points": 6,
+        "gd": -5,
+        "isMe": false
+      },
+      {
+        "id": "persita",
+        "name": "Persita Tangerang",
+        "logo": "🟣",
+        "played": 9,
+        "won": 0,
+        "drawn": 4,
+        "lost": 5,
+        "goalsFor": 1,
+        "goalsAgainst": 6,
+        "points": 4,
+        "gd": -5,
+        "isMe": false
+      }
+    ],
+    "myStats": {
+      "played": 9,
+      "won": 4,
+      "drawn": 4,
+      "lost": 1,
+      "points": 16,
+      "goalsFor": 9,
+      "goalsAgainst": 5
+    },
+    "finished": false,
+    "promotionZone": 3,
+    "relegationZone": 7,
+    "reward": 0,
+    "premiumReward": 0,
+    "aiRoundDone": {
+      "round_1": true,
+      "round_2": true,
+      "round_3": true,
+      "round_4": true,
+      "round_5": true,
+      "round_6": true,
+      "round_7": true,
+      "round_8": true,
+      "round_9": true
+    },
+    "aiResults": [
+      {
+        "home": "Dewa United",
+        "away": "Kalteng Putra",
+        "hg": 1,
+        "ag": 0,
+        "round": 1,
+        "goalEvents": [
+          {
+            "minute": 25,
+            "team": "home",
+            "scorerName": "Karim Rossi",
+            "assistName": null,
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Ricky Fajrin",
+            "type": "yellow",
+            "minute": 68,
+            "team": "away"
+          },
+          {
+            "playerName": "Rachmat Irianto",
+            "type": "red",
+            "minute": 40,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "Persik Kediri",
+        "away": "Persikabo 1973",
+        "hg": 1,
+        "ag": 0,
+        "round": 1,
+        "goalEvents": [
+          {
+            "minute": 1,
+            "team": "home",
+            "scorerName": "Ricky Fajrin",
+            "assistName": "Yakob Sayuri",
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Ilija Spasojevic",
+            "type": "yellow",
+            "minute": 45,
+            "team": "home"
+          },
+          {
+            "playerName": "Diego Assis",
+            "type": "yellow",
+            "minute": 41,
+            "team": "home"
+          },
+          {
+            "playerName": "Evan Dimas",
+            "type": "yellow",
+            "minute": 70,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "Persis Solo",
+        "away": "Persita Tangerang",
+        "hg": 0,
+        "ag": 0,
+        "round": 1,
+        "goalEvents": [],
+        "cardEvents": [
+          {
+            "playerName": "Septian David",
+            "type": "yellow",
+            "minute": 23,
+            "team": "home"
+          }
+        ]
+      },
+      {
+        "home": "PSGC Ciamis",
+        "away": "RANS Nusantara",
+        "hg": 0,
+        "ag": 1,
+        "round": 1,
+        "goalEvents": [
+          {
+            "minute": 1,
+            "team": "away",
+            "scorerName": "Rezaldi Hehanusa",
+            "assistName": "Evan Dimas",
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Hamka Hamzah",
+            "type": "yellow",
+            "minute": 26,
+            "team": "home"
+          },
+          {
+            "playerName": "Rezaldi Hehanusa",
+            "type": "yellow",
+            "minute": 36,
+            "team": "away"
+          },
+          {
+            "playerName": "Ciro Alves",
+            "type": "yellow",
+            "minute": 24,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "Kalteng Putra",
+        "away": "Persik Kediri",
+        "hg": 2,
+        "ag": 1,
+        "round": 2,
+        "goalEvents": [
+          {
+            "minute": 2,
+            "team": "home",
+            "scorerName": "Sylvano Comvalius",
+            "assistName": null,
+            "type": "goal"
+          },
+          {
+            "minute": 58,
+            "team": "away",
+            "scorerName": "Saddil Ramdani",
+            "assistName": null,
+            "type": "goal"
+          },
+          {
+            "minute": 72,
+            "team": "home",
+            "scorerName": "Rafael Rodrigues",
+            "assistName": null,
+            "type": "goal"
+          }
+        ],
+        "cardEvents": []
+      },
+      {
+        "home": "Persikabo 1973",
+        "away": "Persis Solo",
+        "hg": 1,
+        "ag": 0,
+        "round": 2,
+        "goalEvents": [
+          {
+            "minute": 72,
+            "team": "home",
+            "scorerName": "Rachmat Irianto",
+            "assistName": null,
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Rezaldi Hehanusa",
+            "type": "yellow",
+            "minute": 21,
+            "team": "away"
+          },
+          {
+            "playerName": "Bruno Matos",
+            "type": "red",
+            "minute": 42,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "PSGC Ciamis",
+        "away": "PSS Sleman",
+        "hg": 0,
+        "ag": 1,
+        "round": 2,
+        "goalEvents": [
+          {
+            "minute": 67,
+            "team": "away",
+            "scorerName": "Derry Rachman",
+            "assistName": "Kim Jeffrey Kurniawan",
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Bagus Nirwanto",
+            "type": "yellow",
+            "minute": 56,
+            "team": "away"
+          },
+          {
+            "playerName": "Yevhen Bokhashvili",
+            "type": "yellow",
+            "minute": 28,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "RANS Nusantara",
+        "away": "Barito Putera",
+        "hg": 1,
+        "ag": 0,
+        "round": 2,
+        "goalEvents": [
+          {
+            "minute": 84,
+            "team": "home",
+            "scorerName": "Bruno Matos",
+            "assistName": null,
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Rizky Pora",
+            "type": "yellow",
+            "minute": 30,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "Persik Kediri",
+        "away": "Persikabo 1973",
+        "hg": 1,
+        "ag": 0,
+        "round": 3,
+        "goalEvents": [
+          {
+            "minute": 61,
+            "team": "home",
+            "scorerName": "Ciro Alves",
+            "assistName": null,
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Rachmat Irianto",
+            "type": "yellow",
+            "minute": 34,
+            "team": "home"
+          },
+          {
+            "playerName": "Hamka Hamzah",
+            "type": "yellow",
+            "minute": 38,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "Persita Tangerang",
+        "away": "PSGC Ciamis",
+        "hg": 0,
+        "ag": 1,
+        "round": 3,
+        "goalEvents": [
+          {
+            "minute": 74,
+            "team": "away",
+            "scorerName": "Yustinus Pae",
+            "assistName": "Sani Rizki",
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Yustinus Pae",
+            "type": "red",
+            "minute": 38,
+            "team": "home"
+          },
+          {
+            "playerName": "Yustinus Pae",
+            "type": "yellow",
+            "minute": 43,
+            "team": "home"
+          },
+          {
+            "playerName": "Yustinus Pae",
+            "type": "yellow",
+            "minute": 40,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "PSS Sleman",
+        "away": "RANS Nusantara",
+        "hg": 0,
+        "ag": 0,
+        "round": 3,
+        "goalEvents": [],
+        "cardEvents": []
+      },
+      {
+        "home": "Barito Putera",
+        "away": "Dewa United",
+        "hg": 1,
+        "ag": 0,
+        "round": 3,
+        "goalEvents": [
+          {
+            "minute": 19,
+            "team": "home",
+            "scorerName": "Abdul Aziz",
+            "assistName": null,
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Abdul Aziz",
+            "type": "yellow",
+            "minute": 54,
+            "team": "home"
+          }
+        ]
+      },
+      {
+        "home": "Persis Solo",
+        "away": "Persita Tangerang",
+        "hg": 1,
+        "ag": 0,
+        "round": 4,
+        "goalEvents": [
+          {
+            "minute": 30,
+            "team": "home",
+            "scorerName": "Andik Rendika",
+            "assistName": null,
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Sylvano Comvalius",
+            "type": "yellow",
+            "minute": 52,
+            "team": "away"
+          },
+          {
+            "playerName": "Ryuji Utomo",
+            "type": "yellow",
+            "minute": 63,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "PSGC Ciamis",
+        "away": "PSS Sleman",
+        "hg": 0,
+        "ag": 1,
+        "round": 4,
+        "goalEvents": [
+          {
+            "minute": 39,
+            "team": "away",
+            "scorerName": "Bagus Nirwanto",
+            "assistName": null,
+            "type": "goal"
+          }
+        ],
+        "cardEvents": []
+      },
+      {
+        "home": "RANS Nusantara",
+        "away": "Barito Putera",
+        "hg": 0,
+        "ag": 0,
+        "round": 4,
+        "goalEvents": [],
+        "cardEvents": [
+          {
+            "playerName": "Bruno Matos",
+            "type": "yellow",
+            "minute": 69,
+            "team": "home"
+          },
+          {
+            "playerName": "Mike Ott",
+            "type": "yellow",
+            "minute": 34,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "Kalteng Putra",
+        "away": "Persik Kediri",
+        "hg": 2,
+        "ag": 0,
+        "round": 4,
+        "goalEvents": [
+          {
+            "minute": 9,
+            "team": "home",
+            "scorerName": "Fachruddin AM",
+            "assistName": "Jonathan Cantillana",
+            "type": "goal"
+          },
+          {
+            "minute": 46,
+            "team": "home",
+            "scorerName": "Andik Rendika",
+            "assistName": null,
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Irfan Jaya",
+            "type": "yellow",
+            "minute": 40,
+            "team": "home"
+          }
+        ]
+      },
+      {
+        "home": "Persita Tangerang",
+        "away": "PSGC Ciamis",
+        "hg": 1,
+        "ag": 1,
+        "round": 5,
+        "goalEvents": [
+          {
+            "minute": 33,
+            "team": "home",
+            "scorerName": "Irfan Jaya",
+            "assistName": null,
+            "type": "goal"
+          },
+          {
+            "minute": 53,
+            "team": "away",
+            "scorerName": "Yakob Sayuri",
+            "assistName": "Andik Rendika",
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Ilija Spasojevic",
+            "type": "yellow",
+            "minute": 37,
+            "team": "home"
+          }
+        ]
+      },
+      {
+        "home": "PSS Sleman",
+        "away": "RANS Nusantara",
+        "hg": 0,
+        "ag": 1,
+        "round": 5,
+        "goalEvents": [
+          {
+            "minute": 45,
+            "team": "away",
+            "scorerName": "Bruno Matos",
+            "assistName": null,
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Kim Jeffrey Kurniawan",
+            "type": "yellow",
+            "minute": 33,
+            "team": "home"
+          },
+          {
+            "playerName": "Ricky Fajrin",
+            "type": "red",
+            "minute": 20,
+            "team": "away"
+          },
+          {
+            "playerName": "Diego Assis",
+            "type": "yellow",
+            "minute": 64,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "Dewa United",
+        "away": "Kalteng Putra",
+        "hg": 2,
+        "ag": 1,
+        "round": 5,
+        "goalEvents": [
+          {
+            "minute": 31,
+            "team": "home",
+            "scorerName": "Ricky Kambuaya",
+            "assistName": "Risto Mitrevski",
+            "type": "goal"
+          },
+          {
+            "minute": 50,
+            "team": "home",
+            "scorerName": "Hugo Gomes",
+            "assistName": "Ricky Kambuaya",
+            "type": "goal"
+          },
+          {
+            "minute": 52,
+            "team": "away",
+            "scorerName": "Rizky Ridho",
+            "assistName": "Rafael Rodrigues",
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Rizky Ridho",
+            "type": "yellow",
+            "minute": 64,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "Persik Kediri",
+        "away": "Persikabo 1973",
+        "hg": 1,
+        "ag": 2,
+        "round": 5,
+        "goalEvents": [
+          {
+            "minute": 37,
+            "team": "away",
+            "scorerName": "Rizky Ridho",
+            "assistName": "Irfan Jaya",
+            "type": "goal"
+          },
+          {
+            "minute": 55,
+            "team": "home",
+            "scorerName": "Zalnando",
+            "assistName": null,
+            "type": "goal"
+          },
+          {
+            "minute": 69,
+            "team": "away",
+            "scorerName": "Beto Goncalves",
+            "assistName": "Evan Dimas",
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Beto Goncalves",
+            "type": "yellow",
+            "minute": 21,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "Persita Tangerang",
+        "away": "PSGC Ciamis",
+        "hg": 0,
+        "ag": 0,
+        "round": 6,
+        "goalEvents": [],
+        "cardEvents": [
+          {
+            "playerName": "Ryuji Utomo",
+            "type": "yellow",
+            "minute": 30,
+            "team": "home"
+          },
+          {
+            "playerName": "Bruno Matos",
+            "type": "yellow",
+            "minute": 56,
+            "team": "home"
+          }
+        ]
+      },
+      {
+        "home": "PSS Sleman",
+        "away": "Barito Putera",
+        "hg": 1,
+        "ag": 1,
+        "round": 6,
+        "goalEvents": [
+          {
+            "minute": 54,
+            "team": "away",
+            "scorerName": "Abdul Aziz",
+            "assistName": "Bayu Pradana",
+            "type": "goal"
+          },
+          {
+            "minute": 63,
+            "team": "home",
+            "scorerName": "Derry Rachman",
+            "assistName": "Kim Jeffrey Kurniawan",
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Bagus Nirwanto",
+            "type": "yellow",
+            "minute": 60,
+            "team": "home"
+          }
+        ]
+      },
+      {
+        "home": "Dewa United",
+        "away": "Kalteng Putra",
+        "hg": 0,
+        "ag": 1,
+        "round": 6,
+        "goalEvents": [
+          {
+            "minute": 76,
+            "team": "away",
+            "scorerName": "Sylvano Comvalius",
+            "assistName": null,
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Ryuji Utomo",
+            "type": "yellow",
+            "minute": 77,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "Persik Kediri",
+        "away": "Persikabo 1973",
+        "hg": 0,
+        "ag": 0,
+        "round": 6,
+        "goalEvents": [],
+        "cardEvents": [
+          {
+            "playerName": "Ricky Kayame",
+            "type": "yellow",
+            "minute": 29,
+            "team": "home"
+          }
+        ]
+      },
+      {
+        "home": "PSS Sleman",
+        "away": "RANS Nusantara",
+        "hg": 2,
+        "ag": 0,
+        "round": 7,
+        "goalEvents": [
+          {
+            "minute": 48,
+            "team": "home",
+            "scorerName": "Wahyu Sukarta",
+            "assistName": "Mario Maslac",
+            "type": "goal"
+          },
+          {
+            "minute": 58,
+            "team": "home",
+            "scorerName": "Derry Rachman",
+            "assistName": "Mario Maslac",
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Irfan Jaya",
+            "type": "yellow",
+            "minute": 69,
+            "team": "home"
+          },
+          {
+            "playerName": "Ciro Alves",
+            "type": "red",
+            "minute": 34,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "Barito Putera",
+        "away": "Dewa United",
+        "hg": 0,
+        "ag": 2,
+        "round": 7,
+        "goalEvents": [
+          {
+            "minute": 55,
+            "team": "away",
+            "scorerName": "Ricky Kambuaya",
+            "assistName": null,
+            "type": "goal"
+          },
+          {
+            "minute": 70,
+            "team": "away",
+            "scorerName": "Edo Febriansah",
+            "assistName": "Rachmat Irianto",
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Ammar Hidayat",
+            "type": "yellow",
+            "minute": 37,
+            "team": "home"
+          },
+          {
+            "playerName": "Egy Maulana Vikri",
+            "type": "yellow",
+            "minute": 30,
+            "team": "away"
+          },
+          {
+            "playerName": "Risto Mitrevski",
+            "type": "yellow",
+            "minute": 53,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "Kalteng Putra",
+        "away": "Persik Kediri",
+        "hg": 1,
+        "ag": 0,
+        "round": 7,
+        "goalEvents": [
+          {
+            "minute": 53,
+            "team": "home",
+            "scorerName": "Evan Dimas",
+            "assistName": "Andik Rendika",
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Sani Rizki",
+            "type": "yellow",
+            "minute": 68,
+            "team": "home"
+          },
+          {
+            "playerName": "Ilija Spasojevic",
+            "type": "yellow",
+            "minute": 38,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "Persis Solo",
+        "away": "Persita Tangerang",
+        "hg": 1,
+        "ag": 0,
+        "round": 7,
+        "goalEvents": [
+          {
+            "minute": 54,
+            "team": "home",
+            "scorerName": "Yakob Sayuri",
+            "assistName": null,
+            "type": "goal"
+          }
+        ],
+        "cardEvents": []
+      },
+      {
+        "home": "RANS Nusantara",
+        "away": "Barito Putera",
+        "hg": 2,
+        "ag": 0,
+        "round": 8,
+        "goalEvents": [
+          {
+            "minute": 17,
+            "team": "home",
+            "scorerName": "Septian David",
+            "assistName": null,
+            "type": "goal"
+          },
+          {
+            "minute": 43,
+            "team": "home",
+            "scorerName": "Sani Rizki",
+            "assistName": null,
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Septian David",
+            "type": "yellow",
+            "minute": 32,
+            "team": "home"
+          },
+          {
+            "playerName": "Septian David",
+            "type": "yellow",
+            "minute": 60,
+            "team": "home"
+          }
+        ]
+      },
+      {
+        "home": "Dewa United",
+        "away": "Kalteng Putra",
+        "hg": 0,
+        "ag": 0,
+        "round": 8,
+        "goalEvents": [],
+        "cardEvents": [
+          {
+            "playerName": "Ronaldo Kwateh",
+            "type": "yellow",
+            "minute": 75,
+            "team": "home"
+          },
+          {
+            "playerName": "Yustinus Pae",
+            "type": "yellow",
+            "minute": 31,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "Persikabo 1973",
+        "away": "Persis Solo",
+        "hg": 1,
+        "ag": 0,
+        "round": 8,
+        "goalEvents": [
+          {
+            "minute": 70,
+            "team": "home",
+            "scorerName": "Ilija Spasojevic",
+            "assistName": null,
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Bruno Matos",
+            "type": "yellow",
+            "minute": 26,
+            "team": "home"
+          }
+        ]
+      },
+      {
+        "home": "Persita Tangerang",
+        "away": "PSGC Ciamis",
+        "hg": 0,
+        "ag": 0,
+        "round": 8,
+        "goalEvents": [],
+        "cardEvents": [
+          {
+            "playerName": "Andik Rendika",
+            "type": "yellow",
+            "minute": 31,
+            "team": "home"
+          },
+          {
+            "playerName": "Ilija Spasojevic",
+            "type": "yellow",
+            "minute": 33,
+            "team": "away"
+          },
+          {
+            "playerName": "Victor Igbonefo",
+            "type": "yellow",
+            "minute": 74,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "Barito Putera",
+        "away": "Dewa United",
+        "hg": 1,
+        "ag": 1,
+        "round": 9,
+        "goalEvents": [
+          {
+            "minute": 43,
+            "team": "home",
+            "scorerName": "Rafinha",
+            "assistName": null,
+            "type": "goal"
+          },
+          {
+            "minute": 44,
+            "team": "away",
+            "scorerName": "Ronaldo Kwateh",
+            "assistName": null,
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Abdul Aziz",
+            "type": "yellow",
+            "minute": 75,
+            "team": "home"
+          }
+        ]
+      },
+      {
+        "home": "Kalteng Putra",
+        "away": "Persik Kediri",
+        "hg": 1,
+        "ag": 2,
+        "round": 9,
+        "goalEvents": [
+          {
+            "minute": 16,
+            "team": "away",
+            "scorerName": "Saddil Ramdani",
+            "assistName": "Sani Rizki",
+            "type": "goal"
+          },
+          {
+            "minute": 69,
+            "team": "away",
+            "scorerName": "Yustinus Pae",
+            "assistName": "Ricky Kayame",
+            "type": "goal"
+          },
+          {
+            "minute": 88,
+            "team": "home",
+            "scorerName": "Asnawi Mangkualam",
+            "assistName": "Ilija Spasojevic",
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Saddil Ramdani",
+            "type": "yellow",
+            "minute": 50,
+            "team": "home"
+          },
+          {
+            "playerName": "Bagas Adi",
+            "type": "yellow",
+            "minute": 49,
+            "team": "away"
+          }
+        ]
+      },
+      {
+        "home": "Persikabo 1973",
+        "away": "Persis Solo",
+        "hg": 0,
+        "ag": 1,
+        "round": 9,
+        "goalEvents": [
+          {
+            "minute": 36,
+            "team": "away",
+            "scorerName": "Hamka Hamzah",
+            "assistName": "Andik Rendika",
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Ricky Fajrin",
+            "type": "red",
+            "minute": 43,
+            "team": "home"
+          }
+        ]
+      },
+      {
+        "home": "Persita Tangerang",
+        "away": "PSS Sleman",
+        "hg": 0,
+        "ag": 1,
+        "round": 9,
+        "goalEvents": [
+          {
+            "minute": 28,
+            "team": "away",
+            "scorerName": "Yevhen Bokhashvili",
+            "assistName": "Irfan Jaya",
+            "type": "goal"
+          }
+        ],
+        "cardEvents": [
+          {
+            "playerName": "Rafael Rodrigues",
+            "type": "yellow",
+            "minute": 20,
+            "team": "home"
+          },
+          {
+            "playerName": "Bagus Nirwanto",
+            "type": "yellow",
+            "minute": 41,
+            "team": "away"
+          },
+          {
+            "playerName": "Yevhen Bokhashvili",
+            "type": "yellow",
+            "minute": 63,
+            "team": "away"
+          }
+        ]
+      }
+    ],
+    "topScorers": {
+      "9": {
+        "name": "michaeldimaz",
+        "goals": 1,
+        "teamLabel": "my"
+      },
+      "ai_Karim Rossi": {
+        "name": "Karim Rossi",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Ricky Fajrin": {
+        "name": "Ricky Fajrin",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Rezaldi Hehanusa": {
+        "name": "Rezaldi Hehanusa",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "npc_Ilham Rio Fahmi": {
+        "name": "Ilham Rio Fahmi",
+        "goals": 1,
+        "teamLabel": "my"
+      },
+      "ai_Derry Rachman": {
+        "name": "Derry Rachman",
+        "goals": 4,
+        "teamLabel": "ai"
+      },
+      "ai_Sylvano Comvalius": {
+        "name": "Sylvano Comvalius",
+        "goals": 2,
+        "teamLabel": "ai"
+      },
+      "ai_Saddil Ramdani": {
+        "name": "Saddil Ramdani",
+        "goals": 2,
+        "teamLabel": "ai"
+      },
+      "ai_Rafael Rodrigues": {
+        "name": "Rafael Rodrigues",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Rachmat Irianto": {
+        "name": "Rachmat Irianto",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Bruno Matos": {
+        "name": "Bruno Matos",
+        "goals": 2,
+        "teamLabel": "ai"
+      },
+      "npc_Marko Simic": {
+        "name": "Marko Simic",
+        "goals": 1,
+        "teamLabel": "my"
+      },
+      "ai_Ciro Alves": {
+        "name": "Ciro Alves",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Yustinus Pae": {
+        "name": "Yustinus Pae",
+        "goals": 3,
+        "teamLabel": "ai"
+      },
+      "ai_Abdul Aziz": {
+        "name": "Abdul Aziz",
+        "goals": 2,
+        "teamLabel": "ai"
+      },
+      "ai_Asnawi Mangkualam": {
+        "name": "Asnawi Mangkualam",
+        "goals": 2,
+        "teamLabel": "ai"
+      },
+      "ai_Andik Rendika": {
+        "name": "Andik Rendika",
+        "goals": 2,
+        "teamLabel": "ai"
+      },
+      "ai_Bagus Nirwanto": {
+        "name": "Bagus Nirwanto",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Fachruddin AM": {
+        "name": "Fachruddin AM",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "npc_Andritany Ardhiyasa": {
+        "name": "Andritany Ardhiyasa",
+        "goals": 2,
+        "teamLabel": "my"
+      },
+      "ai_Irfan Jaya": {
+        "name": "Irfan Jaya",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Yakob Sayuri": {
+        "name": "Yakob Sayuri",
+        "goals": 2,
+        "teamLabel": "ai"
+      },
+      "ai_Ricky Kambuaya": {
+        "name": "Ricky Kambuaya",
+        "goals": 2,
+        "teamLabel": "ai"
+      },
+      "ai_Hugo Gomes": {
+        "name": "Hugo Gomes",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Rizky Ridho": {
+        "name": "Rizky Ridho",
+        "goals": 2,
+        "teamLabel": "ai"
+      },
+      "ai_Zalnando": {
+        "name": "Zalnando",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Beto Goncalves": {
+        "name": "Beto Goncalves",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "npc_Syahrian Abimanyu": {
+        "name": "Syahrian Abimanyu",
+        "goals": 1,
+        "teamLabel": "my"
+      },
+      "ai_Septian David": {
+        "name": "Septian David",
+        "goals": 2,
+        "teamLabel": "ai"
+      },
+      "npc_Maciej Gajos": {
+        "name": "Maciej Gajos",
+        "goals": 1,
+        "teamLabel": "my"
+      },
+      "ai_Wahyu Sukarta": {
+        "name": "Wahyu Sukarta",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Edo Febriansah": {
+        "name": "Edo Febriansah",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Evan Dimas": {
+        "name": "Evan Dimas",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Sani Rizki": {
+        "name": "Sani Rizki",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Ilija Spasojevic": {
+        "name": "Ilija Spasojevic",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Jonathan Cantillana": {
+        "name": "Jonathan Cantillana",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "npc_Firza Andika": {
+        "name": "Firza Andika",
+        "goals": 1,
+        "teamLabel": "my"
+      },
+      "ai_Rafinha": {
+        "name": "Rafinha",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Ronaldo Kwateh": {
+        "name": "Ronaldo Kwateh",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Hamka Hamzah": {
+        "name": "Hamka Hamzah",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Yevhen Bokhashvili": {
+        "name": "Yevhen Bokhashvili",
+        "goals": 1,
+        "teamLabel": "ai"
+      },
+      "npc_Riko Simanjuntak": {
+        "name": "Riko Simanjuntak",
+        "goals": 1,
+        "teamLabel": "my"
+      }
+    },
+    "topAssists": {
+      "9": {
+        "name": "michaeldimaz",
+        "assists": 1,
+        "teamLabel": "my"
+      },
+      "ai_Yakob Sayuri": {
+        "name": "Yakob Sayuri",
+        "assists": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Evan Dimas": {
+        "name": "Evan Dimas",
+        "assists": 2,
+        "teamLabel": "ai"
+      },
+      "ai_Hokky Caraka": {
+        "name": "Hokky Caraka",
+        "assists": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Kim Jeffrey Kurniawan": {
+        "name": "Kim Jeffrey Kurniawan",
+        "assists": 2,
+        "teamLabel": "ai"
+      },
+      "ai_Syahrian Abimanyu": {
+        "name": "Syahrian Abimanyu",
+        "assists": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Sani Rizki": {
+        "name": "Sani Rizki",
+        "assists": 2,
+        "teamLabel": "ai"
+      },
+      "ai_Hansamu Yama": {
+        "name": "Hansamu Yama",
+        "assists": 2,
+        "teamLabel": "ai"
+      },
+      "ai_Jonathan Cantillana": {
+        "name": "Jonathan Cantillana",
+        "assists": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Witan Sulaeman": {
+        "name": "Witan Sulaeman",
+        "assists": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Andik Rendika": {
+        "name": "Andik Rendika",
+        "assists": 3,
+        "teamLabel": "ai"
+      },
+      "ai_Risto Mitrevski": {
+        "name": "Risto Mitrevski",
+        "assists": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Ricky Kambuaya": {
+        "name": "Ricky Kambuaya",
+        "assists": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Rafael Rodrigues": {
+        "name": "Rafael Rodrigues",
+        "assists": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Irfan Jaya": {
+        "name": "Irfan Jaya",
+        "assists": 2,
+        "teamLabel": "ai"
+      },
+      "ai_Bayu Pradana": {
+        "name": "Bayu Pradana",
+        "assists": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Mario Maslac": {
+        "name": "Mario Maslac",
+        "assists": 2,
+        "teamLabel": "ai"
+      },
+      "ai_Rachmat Irianto": {
+        "name": "Rachmat Irianto",
+        "assists": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Diego Assis": {
+        "name": "Diego Assis",
+        "assists": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Ricky Kayame": {
+        "name": "Ricky Kayame",
+        "assists": 1,
+        "teamLabel": "ai"
+      },
+      "ai_Ilija Spasojevic": {
+        "name": "Ilija Spasojevic",
+        "assists": 1,
+        "teamLabel": "ai"
+      }
+    },
+    "topCards": {
+      "9": {
+        "name": "michaeldimaz",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Ricky Fajrin": {
+        "name": "Ricky Fajrin",
+        "yellow": 1,
+        "red": 2
+      },
+      "ai_Rachmat Irianto": {
+        "name": "Rachmat Irianto",
+        "yellow": 1,
+        "red": 1
+      },
+      "ai_Ilija Spasojevic": {
+        "name": "Ilija Spasojevic",
+        "yellow": 4,
+        "red": 0
+      },
+      "ai_Diego Assis": {
+        "name": "Diego Assis",
+        "yellow": 2,
+        "red": 0
+      },
+      "ai_Evan Dimas": {
+        "name": "Evan Dimas",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Septian David": {
+        "name": "Septian David",
+        "yellow": 3,
+        "red": 0
+      },
+      "ai_Hamka Hamzah": {
+        "name": "Hamka Hamzah",
+        "yellow": 2,
+        "red": 0
+      },
+      "ai_Rezaldi Hehanusa": {
+        "name": "Rezaldi Hehanusa",
+        "yellow": 2,
+        "red": 0
+      },
+      "ai_Ciro Alves": {
+        "name": "Ciro Alves",
+        "yellow": 1,
+        "red": 1
+      },
+      "ai_Firza Andika": {
+        "name": "Firza Andika",
+        "yellow": 2,
+        "red": 1
+      },
+      "ai_Bagus Nirwanto": {
+        "name": "Bagus Nirwanto",
+        "yellow": 4,
+        "red": 0
+      },
+      "ai_Yevhen Bokhashvili": {
+        "name": "Yevhen Bokhashvili",
+        "yellow": 3,
+        "red": 0
+      },
+      "ai_Bruno Matos": {
+        "name": "Bruno Matos",
+        "yellow": 3,
+        "red": 1
+      },
+      "ai_Rizky Pora": {
+        "name": "Rizky Pora",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Yustinus Pae": {
+        "name": "Yustinus Pae",
+        "yellow": 4,
+        "red": 1
+      },
+      "ai_Bagas Adi": {
+        "name": "Bagas Adi",
+        "yellow": 2,
+        "red": 0
+      },
+      "ai_Alberto Goncalves": {
+        "name": "Alberto Goncalves",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Abdul Aziz": {
+        "name": "Abdul Aziz",
+        "yellow": 2,
+        "red": 0
+      },
+      "ai_Syahrian Abimanyu": {
+        "name": "Syahrian Abimanyu",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Witan Sulaeman": {
+        "name": "Witan Sulaeman",
+        "yellow": 2,
+        "red": 0
+      },
+      "ai_Sylvano Comvalius": {
+        "name": "Sylvano Comvalius",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Ryuji Utomo": {
+        "name": "Ryuji Utomo",
+        "yellow": 3,
+        "red": 0
+      },
+      "ai_Mike Ott": {
+        "name": "Mike Ott",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Irfan Jaya": {
+        "name": "Irfan Jaya",
+        "yellow": 2,
+        "red": 0
+      },
+      "ai_Maciej Gajos": {
+        "name": "Maciej Gajos",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Edo Febriansah": {
+        "name": "Edo Febriansah",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Ricky Kambuaya": {
+        "name": "Ricky Kambuaya",
+        "yellow": 0,
+        "red": 1
+      },
+      "ai_Karim Rossi": {
+        "name": "Karim Rossi",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Kim Jeffrey Kurniawan": {
+        "name": "Kim Jeffrey Kurniawan",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Rizky Ridho": {
+        "name": "Rizky Ridho",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Beto Goncalves": {
+        "name": "Beto Goncalves",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Ilham Rio Fahmi": {
+        "name": "Ilham Rio Fahmi",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Ricky Kayame": {
+        "name": "Ricky Kayame",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Ammar Hidayat": {
+        "name": "Ammar Hidayat",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Egy Maulana Vikri": {
+        "name": "Egy Maulana Vikri",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Risto Mitrevski": {
+        "name": "Risto Mitrevski",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Sani Rizki": {
+        "name": "Sani Rizki",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Ronaldo Kwateh": {
+        "name": "Ronaldo Kwateh",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Andik Rendika": {
+        "name": "Andik Rendika",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Victor Igbonefo": {
+        "name": "Victor Igbonefo",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Marko Simic": {
+        "name": "Marko Simic",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Saddil Ramdani": {
+        "name": "Saddil Ramdani",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Rafael Rodrigues": {
+        "name": "Rafael Rodrigues",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Hansamu Yama": {
+        "name": "Hansamu Yama",
+        "yellow": 1,
+        "red": 0
+      },
+      "ai_Riko Simanjuntak": {
+        "name": "Riko Simanjuntak",
+        "yellow": 1,
+        "red": 0
+      }
+    }
+  },
+  "careerHistory": [
+    {
+      "seasonNum": 3,
+      "division": "Divisi 2",
+      "rank": 5,
+      "outcome": "mid",
+      "nextDivision": "Divisi 2",
+      "coinReward": 400
+    },
+    {
+      "seasonNum": 2,
+      "division": "Divisi 1",
+      "rank": 11,
+      "outcome": "relegated",
+      "nextDivision": "Divisi 2",
+      "coinReward": 100
+    },
+    {
+      "seasonNum": 1,
+      "division": "Divisi 1",
+      "rank": 0,
+      "outcome": "promoted",
+      "nextDivision": "Divisi 1",
+      "coinReward": 800
+    }
+  ],
+  "transferPool": [
+    {
+      "id": "tp_1773957035430_20156",
+      "name": "Budi Santoso",
+      "role": "AM",
+      "type": "MID",
+      "rarity": "S",
+      "basePower": 85,
+      "power": 85,
+      "pace": 55,
+      "shooting": 47,
+      "passing": 40,
+      "defense": 37,
+      "stamina": 79,
+      "mentality": 84,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "curStamina": 100,
+      "injury": null,
+      "trait": "Runner",
+      "skill": "NONE",
+      "age": 23,
+      "nationality": "🇮🇩",
+      "price": 534,
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=transfertp_1773957035430_20156&backgroundColor=1a2a3a"
+    },
+    {
+      "id": "tp_1773957035430_82211",
+      "name": "Qomar Firdaus",
+      "role": "RW",
+      "type": "MID",
+      "rarity": "A",
+      "basePower": 74,
+      "power": 74,
+      "pace": 52,
+      "shooting": 40,
+      "passing": 77,
+      "defense": 51,
+      "stamina": 66,
+      "mentality": 76,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "curStamina": 100,
+      "injury": null,
+      "trait": "Sniper",
+      "skill": "NONE",
+      "age": 26,
+      "nationality": "🇮🇩",
+      "price": 443,
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=transfertp_1773957035430_82211&backgroundColor=1a2a3a"
+    },
+    {
+      "id": "tp_1773957035430_45719",
+      "name": "Muhamad Iqbal",
+      "role": "AM",
+      "type": "MID",
+      "rarity": "C",
+      "basePower": 57,
+      "power": 57,
+      "pace": 69,
+      "shooting": 70,
+      "passing": 49,
+      "defense": 36,
+      "stamina": 80,
+      "mentality": 69,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "curStamina": 100,
+      "injury": null,
+      "trait": "Eagle",
+      "skill": "NONE",
+      "age": 19,
+      "nationality": "🇮🇩",
+      "price": 357,
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=transfertp_1773957035430_45719&backgroundColor=1a2a3a"
+    },
+    {
+      "id": "tp_1773957035430_57317",
+      "name": "Gilang Ramadhan",
+      "role": "CB",
+      "type": "DEF",
+      "rarity": "B",
+      "basePower": 64,
+      "power": 64,
+      "pace": 75,
+      "shooting": 75,
+      "passing": 55,
+      "defense": 32,
+      "stamina": 66,
+      "mentality": 88,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "curStamina": 100,
+      "injury": null,
+      "trait": "Sniper",
+      "skill": "NONE",
+      "age": 21,
+      "nationality": "🇮🇩",
+      "price": 342,
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=transfertp_1773957035430_57317&backgroundColor=1a2a3a"
+    },
+    {
+      "id": "tp_1773957035430_9348",
+      "name": "Yusuf Alamsyah",
+      "role": "RW",
+      "type": "MID",
+      "rarity": "A",
+      "basePower": 73,
+      "power": 73,
+      "pace": 40,
+      "shooting": 68,
+      "passing": 50,
+      "defense": 62,
+      "stamina": 70,
+      "mentality": 67,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "curStamina": 100,
+      "injury": null,
+      "trait": "Wall",
+      "skill": "NONE",
+      "age": 20,
+      "nationality": "🇮🇩",
+      "price": 422,
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=transfertp_1773957035430_9348&backgroundColor=1a2a3a"
+    },
+    {
+      "id": "tp_1773957035430_89360",
+      "name": "Joko Susilo",
+      "role": "RW",
+      "type": "MID",
+      "rarity": "C",
+      "basePower": 58,
+      "power": 58,
+      "pace": 45,
+      "shooting": 73,
+      "passing": 41,
+      "defense": 49,
+      "stamina": 81,
+      "mentality": 87,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "curStamina": 100,
+      "injury": null,
+      "trait": "Runner",
+      "skill": "NONE",
+      "age": 20,
+      "nationality": "🇮🇩",
+      "price": 394,
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=transfertp_1773957035430_89360&backgroundColor=1a2a3a"
+    },
+    {
+      "id": "tp_1773957035430_33471",
+      "name": "Arief Rahman",
+      "role": "DM",
+      "type": "MID",
+      "rarity": "C",
+      "basePower": 53,
+      "power": 53,
+      "pace": 44,
+      "shooting": 30,
+      "passing": 61,
+      "defense": 51,
+      "stamina": 61,
+      "mentality": 75,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "curStamina": 100,
+      "injury": null,
+      "trait": "Ghost",
+      "skill": "NONE",
+      "age": 24,
+      "nationality": "🇮🇩",
+      "price": 359,
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=transfertp_1773957035430_33471&backgroundColor=1a2a3a"
+    },
+    {
+      "id": "tp_1773957035432_63104",
+      "name": "Kevin Sanjaya",
+      "role": "AM",
+      "type": "MID",
+      "rarity": "C",
+      "basePower": 56,
+      "power": 56,
+      "pace": 43,
+      "shooting": 77,
+      "passing": 66,
+      "defense": 79,
+      "stamina": 86,
+      "mentality": 87,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "curStamina": 100,
+      "injury": null,
+      "trait": "Tank",
+      "skill": "NONE",
+      "age": 24,
+      "nationality": "🇮🇩",
+      "price": 308,
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=transfertp_1773957035432_63104&backgroundColor=1a2a3a"
+    }
+  ],
+  "character": {
+    "name": "michaeldimaz",
+    "position": "ST",
+    "positionLabel": "Penyerang Murni",
+    "nationality": "🇮🇩",
+    "age": 20,
+    "power": 65,
+    "icon": "🔥"
+  },
+  "myClub": {
+    "id": "persija",
+    "name": "Persija Jakarta",
+    "logo": "🔴",
+    "city": "Jakarta",
+    "color": "#e63329",
+    "division": "Divisi 1",
+    "joinedAt": "2026-03-19T20:33:39.025Z",
+    "contract": {
+      "salary": 10600,
+      "bonus": 530,
+      "duration": "1 Season",
+      "jersey": 6,
+      "benefits": [
+        "Akses pelatih terbaik",
+        "Fasilitas premium",
+        "Koneksi transfer internasional"
+      ]
+    }
+  },
+  "seasonPos": "ST",
+  "players": [
+    {
+      "id": 1,
+      "name": "Rafi Andika",
+      "nickname": "The Wall",
+      "role": "GK",
+      "type": "GK",
+      "nationality": "🇮🇩",
+      "age": 26,
+      "trait": "Reflexes",
+      "basePower": 74,
+      "power": 70,
+      "level": 3,
+      "exp": 222,
+      "expNeeded": 225,
+      "rarity": "B",
+      "growth": 6,
+      "pace": 30,
+      "shooting": 10,
+      "passing": 38,
+      "defense": 74,
+      "stamina": 80,
+      "mentality": 84,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=rafi&backgroundColor=1e3a5f",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 0,
+      "injury": null,
+      "skill": "IRON_WALL",
+      "humanControlled": false,
+      "characterLinked": false
+    },
+    {
+      "id": 2,
+      "name": "Doni Saputra",
+      "nickname": "Iron Left",
+      "role": "LB",
+      "type": "DEF",
+      "nationality": "🇮🇩",
+      "age": 23,
+      "trait": "Stamina Beast",
+      "basePower": 76,
+      "power": 72,
+      "level": 3,
+      "exp": 222,
+      "expNeeded": 225,
+      "rarity": "B",
+      "growth": 5,
+      "pace": 58,
+      "shooting": 32,
+      "passing": 48,
+      "defense": 72,
+      "stamina": 92,
+      "mentality": 72,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=doni&backgroundColor=1e4a2f",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 0,
+      "injury": null,
+      "skill": "STAMINA_KING",
+      "_noStaminaDrain": true,
+      "humanControlled": false,
+      "characterLinked": false
+    },
+    {
+      "id": 3,
+      "name": "Bagas Wicaksono",
+      "nickname": "Stone",
+      "role": "CB",
+      "type": "DEF",
+      "nationality": "🇮🇩",
+      "age": 27,
+      "trait": "Aerial Duel",
+      "basePower": 81,
+      "power": 75,
+      "level": 3,
+      "exp": 222,
+      "expNeeded": 225,
+      "rarity": "A",
+      "growth": 7,
+      "pace": 46,
+      "shooting": 26,
+      "passing": 42,
+      "defense": 88,
+      "stamina": 88,
+      "mentality": 80,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=bagas&backgroundColor=3b1f2e",
+      "equipment": {
+        "HEAD": null,
+        "BODY": "michaeldimaz_1773842291936_v23dg",
+        "HAND": null,
+        "FEET": "equip_1773942262029_70152",
+        "ACC": null
+      },
+      "curStamina": 0,
+      "injury": null,
+      "skill": "AERIAL",
+      "humanControlled": false,
+      "characterLinked": false
+    },
+    {
+      "id": 4,
+      "name": "Faris Hakim",
+      "nickname": "Commander",
+      "role": "CB",
+      "type": "DEF",
+      "nationality": "🇮🇩",
+      "age": 28,
+      "trait": "Leader",
+      "basePower": 82,
+      "power": 76,
+      "level": 3,
+      "exp": 222,
+      "expNeeded": 225,
+      "rarity": "A",
+      "growth": 7,
+      "pace": 44,
+      "shooting": 24,
+      "passing": 44,
+      "defense": 90,
+      "stamina": 86,
+      "mentality": 84,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=faris&backgroundColor=2e1f3b",
+      "equipment": {
+        "HEAD": null,
+        "BODY": "michaeldimaz_1773842291936_v23dg",
+        "HAND": null,
+        "FEET": "equip_1773942267733_92633",
+        "ACC": null
+      },
+      "curStamina": 0,
+      "injury": {
+        "matchesLeft": 2,
+        "type": "muscle"
+      },
+      "skill": "LEADER",
+      "humanControlled": false,
+      "characterLinked": false
+    },
+    {
+      "id": 5,
+      "name": "Yoga Pratama",
+      "nickname": "Rocket Right",
+      "role": "RB",
+      "type": "DEF",
+      "nationality": "🇮🇩",
+      "age": 22,
+      "trait": "Sprint",
+      "basePower": 76,
+      "power": 72,
+      "level": 3,
+      "exp": 222,
+      "expNeeded": 225,
+      "rarity": "B",
+      "growth": 5,
+      "pace": 62,
+      "shooting": 30,
+      "passing": 46,
+      "defense": 70,
+      "stamina": 90,
+      "mentality": 70,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=yoga&backgroundColor=1a3a1a",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 0,
+      "injury": null,
+      "skill": "SPRINT",
+      "humanControlled": false,
+      "characterLinked": false
+    },
+    {
+      "id": 6,
+      "name": "Rizky Firmanto",
+      "nickname": "Engine",
+      "role": "CM",
+      "type": "MID",
+      "nationality": "🇮🇩",
+      "age": 24,
+      "trait": "Box to Box",
+      "basePower": 87,
+      "power": 78,
+      "level": 4,
+      "exp": 37,
+      "expNeeded": 337,
+      "rarity": "A",
+      "growth": 8,
+      "pace": 62,
+      "shooting": 52,
+      "passing": 92,
+      "defense": 56,
+      "stamina": 100,
+      "mentality": 82,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=rizky&backgroundColor=1f3a4a",
+      "equipment": {
+        "HEAD": "michaeldimaz_1773842291936_7ppfo",
+        "BODY": "equip_1773907641447_75380",
+        "HAND": null,
+        "FEET": "michaeldimaz_1773842291936_pb99s",
+        "ACC": null
+      },
+      "curStamina": 0,
+      "injury": null,
+      "skill": "ENGINE",
+      "humanControlled": false,
+      "characterLinked": false
+    },
+    {
+      "id": 7,
+      "name": "Aldi Nugroho",
+      "nickname": "Hawk",
+      "role": "CM",
+      "type": "MID",
+      "nationality": "🇮🇩",
+      "age": 25,
+      "trait": "Interception",
+      "basePower": 87,
+      "power": 78,
+      "level": 4,
+      "exp": 37,
+      "expNeeded": 337,
+      "rarity": "A",
+      "growth": 8,
+      "pace": 60,
+      "shooting": 50,
+      "passing": 90,
+      "defense": 58,
+      "stamina": 98,
+      "mentality": 80,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=aldi&backgroundColor=3a2a1a",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 0,
+      "injury": {
+        "matchesLeft": 2,
+        "type": "knock"
+      },
+      "skill": "INTERCEPT",
+      "humanControlled": false,
+      "characterLinked": false
+    },
+    {
+      "id": 8,
+      "name": "Kevin Maestro",
+      "nickname": "The Vision",
+      "role": "CM",
+      "type": "MID",
+      "nationality": "🇮🇩",
+      "age": 26,
+      "trait": "Long Pass",
+      "basePower": 91,
+      "power": 82,
+      "level": 4,
+      "exp": 37,
+      "expNeeded": 337,
+      "rarity": "S",
+      "growth": 10,
+      "pace": 66,
+      "shooting": 62,
+      "passing": 114,
+      "defense": 52,
+      "stamina": 107,
+      "mentality": 90,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=kevin&backgroundColor=4a3a00",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 0,
+      "injury": null,
+      "skill": "VISION",
+      "humanControlled": false,
+      "characterLinked": false
+    },
+    {
+      "id": 9,
+      "name": "michaeldimaz",
+      "nickname": "Flash",
+      "role": "ST",
+      "type": "ATT",
+      "nationality": "🇮🇩",
+      "age": 20,
+      "trait": "Speed Dribble",
+      "basePower": 91,
+      "power": 82,
+      "level": 4,
+      "exp": 86,
+      "expNeeded": 337,
+      "rarity": "S",
+      "growth": 10,
+      "pace": 103,
+      "shooting": 102,
+      "passing": 66,
+      "defense": 34,
+      "stamina": 82,
+      "mentality": 84,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=galih&backgroundColor=4a1a1a",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": "michaeldimaz_1773842291936_3jhse",
+        "ACC": null
+      },
+      "curStamina": 0,
+      "injury": null,
+      "skill": "DRIBBLE",
+      "humanControlled": true,
+      "originalName": "Galih Perdana",
+      "isUserPlayer": true,
+      "characterLinked": true
+    },
+    {
+      "id": 10,
+      "name": "Dimas Arya",
+      "nickname": "The Destroyer",
+      "role": "ST",
+      "type": "ATT",
+      "nationality": "🇮🇩",
+      "age": 20,
+      "trait": "Clinical Finisher",
+      "basePower": 97,
+      "power": 88,
+      "level": 4,
+      "exp": 86,
+      "expNeeded": 337,
+      "rarity": "S",
+      "growth": 11,
+      "pace": 97,
+      "shooting": 125,
+      "passing": 62,
+      "defense": 28,
+      "stamina": 86,
+      "mentality": 94,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=hendra&backgroundColor=4a2a00",
+      "equipment": {
+        "HEAD": null,
+        "BODY": "1773849529737_0.3641120829837654",
+        "HAND": null,
+        "FEET": "michaeldimaz_1773842291936_3jhse",
+        "ACC": null
+      },
+      "curStamina": 0,
+      "injury": null,
+      "skill": "HAT_TRICK",
+      "humanControlled": false,
+      "characterLinked": false,
+      "originalName": "Dimas Arya"
+    },
+    {
+      "id": 11,
+      "name": "Dimas Arya",
+      "nickname": "Phantom",
+      "role": "RW",
+      "type": "ATT",
+      "nationality": "🇮🇩",
+      "age": 22,
+      "trait": "Pace & Cut",
+      "basePower": 88,
+      "power": 82,
+      "level": 3,
+      "exp": 218,
+      "expNeeded": 225,
+      "rarity": "S",
+      "growth": 10,
+      "pace": 96,
+      "shooting": 92,
+      "passing": 66,
+      "defense": 34,
+      "stamina": 82,
+      "mentality": 84,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=dimas&backgroundColor=1a1a4a",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": "equip_1773942262029_63662",
+        "ACC": null
+      },
+      "curStamina": 0,
+      "injury": null,
+      "skill": "SPRINT",
+      "humanControlled": false,
+      "characterLinked": false
+    },
+    {
+      "id": "youth_1773907793097_3434",
+      "name": "Rayhan Arya",
+      "role": "GK",
+      "type": "GK",
+      "nationality": "🇮🇩",
+      "age": 17,
+      "basePower": 46,
+      "power": 46,
+      "rarity": "A",
+      "growth": 16,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "pace": 59,
+      "shooting": 51,
+      "passing": 61,
+      "defense": 65,
+      "stamina": 80,
+      "mentality": 65,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=youth1773907793097&backgroundColor=22c55e",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 100,
+      "injury": null,
+      "skill": "NONE",
+      "special": "wonderkid",
+      "potentialRating": "S",
+      "nickname": "Youth GK",
+      "characterLinked": false,
+      "humanControlled": false
+    },
+    {
+      "name": "Ahmad Bustomi",
+      "role": "CM",
+      "type": "MID",
+      "nationality": "🇮🇩",
+      "age": 28,
+      "basePower": 68,
+      "pace": 70,
+      "shooting": 65,
+      "passing": 75,
+      "defense": 60,
+      "stamina": 72,
+      "mentality": 70,
+      "freeAgentCost": 250,
+      "id": "fa_1773907802008_0",
+      "special": "free_agent",
+      "level": 1,
+      "exp": 0,
+      "curStamina": 0,
+      "injury": null,
+      "skill": "NONE",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=fa01773907802008&backgroundColor=3b82f6",
+      "power": 68,
+      "growth": 4,
+      "potentialRating": "B",
+      "characterLinked": false,
+      "humanControlled": false
+    },
+    {
+      "id": "tp_1773910250318_96249",
+      "name": "Oki Renaldi",
+      "role": "CM",
+      "type": "MID",
+      "rarity": "S",
+      "basePower": 86,
+      "power": 86,
+      "pace": 72,
+      "shooting": 46,
+      "passing": 60,
+      "defense": 65,
+      "stamina": 84,
+      "mentality": 60,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "curStamina": 0,
+      "injury": null,
+      "trait": "Sniper",
+      "skill": "NONE",
+      "age": 21,
+      "nationality": "🇮🇩",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=transfertp_1773910250318_96249&backgroundColor=1a2a3a",
+      "characterLinked": false,
+      "humanControlled": false
+    },
+    {
+      "name": "Marc Klok",
+      "role": "CM",
+      "type": "MID",
+      "nationality": "🇳🇱",
+      "age": 28,
+      "basePower": 73,
+      "pace": 68,
+      "shooting": 62,
+      "passing": 76,
+      "defense": 65,
+      "stamina": 74,
+      "mentality": 74,
+      "freeAgentCost": 330,
+      "id": "fa_1773910491415_2",
+      "special": "free_agent",
+      "level": 1,
+      "exp": 0,
+      "curStamina": 0,
+      "injury": {
+        "matchesLeft": 2,
+        "type": "muscle"
+      },
+      "skill": "NONE",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=fa21773910491415&backgroundColor=3b82f6",
+      "power": 73,
+      "growth": 4,
+      "potentialRating": "A",
+      "characterLinked": false,
+      "humanControlled": false
+    },
+    {
+      "id": "tp_1773946618457_98900",
+      "name": "Pandu Wijaya",
+      "role": "AM",
+      "type": "MID",
+      "rarity": "S",
+      "basePower": 88,
+      "power": 88,
+      "pace": 71,
+      "shooting": 68,
+      "passing": 62,
+      "defense": 45,
+      "stamina": 89,
+      "mentality": 81,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "curStamina": 0,
+      "injury": null,
+      "trait": "Playmaker",
+      "skill": "NONE",
+      "age": 23,
+      "nationality": "🇮🇩",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=transfertp_1773946618457_98900&backgroundColor=1a2a3a",
+      "characterLinked": false,
+      "humanControlled": false
+    },
+    {
+      "name": "Otavio Dutra",
+      "role": "CB",
+      "type": "DEF",
+      "nationality": "🇧🇷",
+      "age": 31,
+      "basePower": 71,
+      "pace": 58,
+      "shooting": 45,
+      "passing": 60,
+      "defense": 78,
+      "stamina": 66,
+      "mentality": 74,
+      "freeAgentCost": 300,
+      "id": "fa_1773961031896_0",
+      "special": "free_agent",
+      "level": 1,
+      "exp": 0,
+      "curStamina": 0,
+      "injury": null,
+      "skill": "NONE",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=fa01773961031896&backgroundColor=3b82f6",
+      "power": 71,
+      "growth": 4,
+      "potentialRating": "B"
+    }
+  ],
+  "controlMode": "single_player",
+  "playerCharacterId": 9,
+  "transferPoolRefreshedAt": 1773957035433,
+  "updatedAt": "2026-03-20T17:06:57.197Z",
+  "afcChampions": {
+    "season": 3,
+    "stage": "finished",
+    "groupClubs": [
+      {
+        "id": "urawa",
+        "name": "Urawa Red Diamonds",
+        "city": "Saitama",
+        "logo": "🔴",
+        "country": "🇯🇵",
+        "str": 1.15
+      },
+      {
+        "id": "jeonbuk",
+        "name": "Jeonbuk Hyundai",
+        "city": "Jeonju",
+        "logo": "🟢",
+        "country": "🇰🇷",
+        "str": 1.12
+      },
+      {
+        "id": "al_ain",
+        "name": "Al Ain FC",
+        "city": "Al Ain",
+        "logo": "🟡",
+        "country": "🇦🇪",
+        "str": 1.1
+      },
+      {
+        "id": "me",
+        "name": "Persija Jakarta",
+        "logo": "⭐",
+        "country": "🇮🇩",
+        "str": 1,
+        "isMe": true
+      }
+    ],
+    "schedule": [
+      {
+        "matchday": 1,
+        "club": {
+          "id": "urawa",
+          "name": "Urawa Red Diamonds",
+          "city": "Saitama",
+          "logo": "🔴",
+          "country": "🇯🇵",
+          "str": 1.15
+        },
+        "isHome": true,
+        "played": true,
+        "result": "DRAW",
+        "score": "2-2",
+        "myGoals": 2,
+        "oppGoals": 2,
+        "goalEvents": [
+          {
+            "team": "home",
+            "minute": 17,
+            "scorerName": "Kevin Maestro",
+            "assistName": "Aldi Nugroho",
+            "type": "goal"
+          },
+          {
+            "team": "home",
+            "minute": 27,
+            "scorerName": "Rizky Firmanto",
+            "assistName": "Ahmad Bustomi",
+            "type": "goal"
+          },
+          {
+            "team": "away",
+            "minute": 29,
+            "scorerName": "Urawa Winger",
+            "assistName": "Urawa Forward",
+            "type": "goal"
+          },
+          {
+            "team": "away",
+            "minute": 84,
+            "scorerName": "Urawa Midfielder",
+            "assistName": "Urawa Forward",
+            "type": "goal"
+          }
+        ]
+      },
+      {
+        "matchday": 2,
+        "club": {
+          "id": "jeonbuk",
+          "name": "Jeonbuk Hyundai",
+          "city": "Jeonju",
+          "logo": "🟢",
+          "country": "🇰🇷",
+          "str": 1.12
+        },
+        "isHome": false,
+        "played": true,
+        "result": "LOSE",
+        "score": "0-3",
+        "myGoals": 0,
+        "oppGoals": 3,
+        "goalEvents": [
+          {
+            "team": "away",
+            "minute": 8,
+            "scorerName": "Jeonbuk Winger",
+            "assistName": null,
+            "type": "goal"
+          },
+          {
+            "team": "away",
+            "minute": 51,
+            "scorerName": "Jeonbuk Attacker",
+            "assistName": null,
+            "type": "goal"
+          },
+          {
+            "team": "away",
+            "minute": 53,
+            "scorerName": "Jeonbuk Midfielder",
+            "assistName": "Jeonbuk Striker",
+            "type": "goal"
+          }
+        ]
+      },
+      {
+        "matchday": 3,
+        "club": {
+          "id": "al_ain",
+          "name": "Al Ain FC",
+          "city": "Al Ain",
+          "logo": "🟡",
+          "country": "🇦🇪",
+          "str": 1.1
+        },
+        "isHome": true,
+        "played": true,
+        "result": "WIN",
+        "score": "1-0",
+        "myGoals": 1,
+        "oppGoals": 0,
+        "goalEvents": [
+          {
+            "team": "home",
+            "minute": 70,
+            "scorerName": "Marc Klok",
+            "assistName": "Yoga Pratama",
+            "type": "goal"
+          }
+        ]
+      }
+    ],
+    "currentMatchday": 3,
+    "myStats": {
+      "played": 3,
+      "won": 1,
+      "drawn": 1,
+      "lost": 1,
+      "points": 4,
+      "goalsFor": 3,
+      "goalsAgainst": 5
+    },
+    "standings": [
+      {
+        "id": "jeonbuk",
+        "name": "Jeonbuk Hyundai",
+        "logo": "🟢",
+        "country": "🇰🇷",
+        "played": 3,
+        "won": 3,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 6,
+        "goalsAgainst": 1,
+        "gd": 5,
+        "points": 9,
+        "isMe": false
+      },
+      {
+        "id": "me",
+        "name": "Persija Jakarta",
+        "logo": "⭐",
+        "country": "🇮🇩",
+        "played": 3,
+        "won": 1,
+        "drawn": 1,
+        "lost": 1,
+        "goalsFor": 3,
+        "goalsAgainst": 5,
+        "gd": -2,
+        "points": 4,
+        "isMe": true
+      },
+      {
+        "id": "urawa",
+        "name": "Urawa Red Diamonds",
+        "logo": "🔴",
+        "country": "🇯🇵",
+        "played": 3,
+        "won": 0,
+        "drawn": 2,
+        "lost": 1,
+        "goalsFor": 3,
+        "goalsAgainst": 4,
+        "gd": -1,
+        "points": 2,
+        "isMe": false
+      },
+      {
+        "id": "al_ain",
+        "name": "Al Ain FC",
+        "logo": "🟡",
+        "country": "🇦🇪",
+        "played": 3,
+        "won": 0,
+        "drawn": 1,
+        "lost": 2,
+        "goalsFor": 0,
+        "goalsAgainst": 2,
+        "gd": -2,
+        "points": 1,
+        "isMe": false
+      }
+    ],
+    "finished": true,
+    "knockoutBracket": null,
+    "reward": 600,
+    "knockout": {
+      "stage": "final",
+      "competitionName": "AFC Champions League",
+      "qualified": [
+        {
+          "id": "jeonbuk",
+          "name": "Jeonbuk Hyundai",
+          "logo": "🟢",
+          "country": "🇰🇷",
+          "played": 3,
+          "won": 3,
+          "drawn": 0,
+          "lost": 0,
+          "goalsFor": 6,
+          "goalsAgainst": 1,
+          "gd": 5,
+          "points": 9,
+          "isMe": false,
+          "seed": 1
+        },
+        {
+          "id": "me",
+          "name": "Persija Jakarta",
+          "logo": "⭐",
+          "country": "🇮🇩",
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 5,
+          "gd": -2,
+          "points": 4,
+          "isMe": true,
+          "seed": 2
+        },
+        {
+          "id": "urawa",
+          "name": "Urawa Red Diamonds",
+          "logo": "🔴",
+          "country": "🇯🇵",
+          "played": 3,
+          "won": 0,
+          "drawn": 2,
+          "lost": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 4,
+          "gd": -1,
+          "points": 2,
+          "isMe": false,
+          "seed": 3
+        },
+        {
+          "id": "al_ain",
+          "name": "Al Ain FC",
+          "logo": "🟡",
+          "country": "🇦🇪",
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "goalsFor": 0,
+          "goalsAgainst": 2,
+          "gd": -2,
+          "points": 1,
+          "isMe": false,
+          "seed": 4
+        }
+      ],
+      "semiFinals": [
+        {
+          "id": "sf1",
+          "home": {
+            "id": "jeonbuk",
+            "name": "Jeonbuk Hyundai",
+            "logo": "🟢",
+            "country": "🇰🇷",
+            "played": 3,
+            "won": 3,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 6,
+            "goalsAgainst": 1,
+            "gd": 5,
+            "points": 9,
+            "isMe": false
+          },
+          "away": {
+            "id": "al_ain",
+            "name": "Al Ain FC",
+            "logo": "🟡",
+            "country": "🇦🇪",
+            "played": 3,
+            "won": 0,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "gd": -2,
+            "points": 1,
+            "isMe": false
+          },
+          "played": true,
+          "result": {
+            "hGoals": 1,
+            "aGoals": 0,
+            "winner": {
+              "id": "jeonbuk",
+              "name": "Jeonbuk Hyundai",
+              "logo": "🟢",
+              "country": "🇰🇷",
+              "played": 3,
+              "won": 3,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 6,
+              "goalsAgainst": 1,
+              "gd": 5,
+              "points": 9,
+              "isMe": false
+            },
+            "loser": {
+              "id": "al_ain",
+              "name": "Al Ain FC",
+              "logo": "🟡",
+              "country": "🇦🇪",
+              "played": 3,
+              "won": 0,
+              "drawn": 1,
+              "lost": 2,
+              "goalsFor": 0,
+              "goalsAgainst": 2,
+              "gd": -2,
+              "points": 1,
+              "isMe": false
+            },
+            "score": "1-0",
+            "isMyTeam": false
+          },
+          "score": "1-0",
+          "winner": {
+            "id": "jeonbuk",
+            "name": "Jeonbuk Hyundai",
+            "logo": "🟢",
+            "country": "🇰🇷",
+            "played": 3,
+            "won": 3,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 6,
+            "goalsAgainst": 1,
+            "gd": 5,
+            "points": 9,
+            "isMe": false
+          },
+          "loser": {
+            "id": "al_ain",
+            "name": "Al Ain FC",
+            "logo": "🟡",
+            "country": "🇦🇪",
+            "played": 3,
+            "won": 0,
+            "drawn": 1,
+            "lost": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "gd": -2,
+            "points": 1,
+            "isMe": false
+          }
+        },
+        {
+          "id": "sf2",
+          "home": {
+            "id": "me",
+            "name": "Persija Jakarta",
+            "logo": "⭐",
+            "country": "🇮🇩",
+            "played": 3,
+            "won": 1,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 3,
+            "goalsAgainst": 5,
+            "gd": -2,
+            "points": 4,
+            "isMe": true
+          },
+          "away": {
+            "id": "urawa",
+            "name": "Urawa Red Diamonds",
+            "logo": "🔴",
+            "country": "🇯🇵",
+            "played": 3,
+            "won": 0,
+            "drawn": 2,
+            "lost": 1,
+            "goalsFor": 3,
+            "goalsAgainst": 4,
+            "gd": -1,
+            "points": 2,
+            "isMe": false
+          },
+          "played": true,
+          "result": {
+            "hGoals": 2,
+            "aGoals": 0,
+            "winner": {
+              "id": "me",
+              "name": "Persija Jakarta",
+              "logo": "⭐",
+              "country": "🇮🇩",
+              "played": 3,
+              "won": 1,
+              "drawn": 1,
+              "lost": 1,
+              "goalsFor": 3,
+              "goalsAgainst": 5,
+              "gd": -2,
+              "points": 4,
+              "isMe": true
+            },
+            "loser": {
+              "id": "urawa",
+              "name": "Urawa Red Diamonds",
+              "logo": "🔴",
+              "country": "🇯🇵",
+              "played": 3,
+              "won": 0,
+              "drawn": 2,
+              "lost": 1,
+              "goalsFor": 3,
+              "goalsAgainst": 4,
+              "gd": -1,
+              "points": 2,
+              "isMe": false
+            },
+            "score": "2-0",
+            "isMyTeam": true
+          },
+          "score": "2-0",
+          "winner": {
+            "id": "me",
+            "name": "Persija Jakarta",
+            "logo": "⭐",
+            "country": "🇮🇩",
+            "played": 3,
+            "won": 1,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 3,
+            "goalsAgainst": 5,
+            "gd": -2,
+            "points": 4,
+            "isMe": true
+          },
+          "loser": {
+            "id": "urawa",
+            "name": "Urawa Red Diamonds",
+            "logo": "🔴",
+            "country": "🇯🇵",
+            "played": 3,
+            "won": 0,
+            "drawn": 2,
+            "lost": 1,
+            "goalsFor": 3,
+            "goalsAgainst": 4,
+            "gd": -1,
+            "points": 2,
+            "isMe": false
+          }
+        }
+      ],
+      "final": {
+        "id": "final",
+        "home": {
+          "id": "jeonbuk",
+          "name": "Jeonbuk Hyundai",
+          "logo": "🟢",
+          "country": "🇰🇷",
+          "played": 3,
+          "won": 3,
+          "drawn": 0,
+          "lost": 0,
+          "goalsFor": 6,
+          "goalsAgainst": 1,
+          "gd": 5,
+          "points": 9,
+          "isMe": false
+        },
+        "away": {
+          "id": "me",
+          "name": "Persija Jakarta",
+          "logo": "⭐",
+          "country": "🇮🇩",
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 5,
+          "gd": -2,
+          "points": 4,
+          "isMe": true
+        },
+        "played": true,
+        "result": {
+          "hGoals": 1,
+          "aGoals": 0,
+          "winner": {
+            "id": "jeonbuk",
+            "name": "Jeonbuk Hyundai",
+            "logo": "🟢",
+            "country": "🇰🇷",
+            "played": 3,
+            "won": 3,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 6,
+            "goalsAgainst": 1,
+            "gd": 5,
+            "points": 9,
+            "isMe": false
+          },
+          "loser": {
+            "id": "me",
+            "name": "Persija Jakarta",
+            "logo": "⭐",
+            "country": "🇮🇩",
+            "played": 3,
+            "won": 1,
+            "drawn": 1,
+            "lost": 1,
+            "goalsFor": 3,
+            "goalsAgainst": 5,
+            "gd": -2,
+            "points": 4,
+            "isMe": true
+          },
+          "score": "1-0",
+          "isMyTeam": true
+        },
+        "score": "1-0"
+      },
+      "thirdPlace": {
+        "id": "third",
+        "home": {
+          "id": "al_ain",
+          "name": "Al Ain FC",
+          "logo": "🟡",
+          "country": "🇦🇪",
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "goalsFor": 0,
+          "goalsAgainst": 2,
+          "gd": -2,
+          "points": 1,
+          "isMe": false
+        },
+        "away": {
+          "id": "urawa",
+          "name": "Urawa Red Diamonds",
+          "logo": "🔴",
+          "country": "🇯🇵",
+          "played": 3,
+          "won": 0,
+          "drawn": 2,
+          "lost": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 4,
+          "gd": -1,
+          "points": 2,
+          "isMe": false
+        },
+        "played": false,
+        "result": null
+      },
+      "winner": {
+        "id": "jeonbuk",
+        "name": "Jeonbuk Hyundai",
+        "logo": "🟢",
+        "country": "🇰🇷",
+        "played": 3,
+        "won": 3,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 6,
+        "goalsAgainst": 1,
+        "gd": 5,
+        "points": 9,
+        "isMe": false
+      },
+      "finished": true
+    },
+    "message": "🥈 Runner-up AFC. Bangga!",
+    "champion": {
+      "id": "jeonbuk",
+      "name": "Jeonbuk Hyundai",
+      "logo": "🟢",
+      "country": "🇰🇷",
+      "played": 3,
+      "won": 3,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 6,
+      "goalsAgainst": 1,
+      "gd": 5,
+      "points": 9,
+      "isMe": false
+    }
+  },
+  "affCup": {
+    "season": 9,
+    "groupClubs": [
+      {
+        "id": "global",
+        "name": "Kaya FC-Iloilo",
+        "city": "Iloilo",
+        "logo": "🟡",
+        "country": "🇵🇭",
+        "str": 0.98
+      },
+      {
+        "id": "yangon",
+        "name": "Yangon United",
+        "city": "Yangon",
+        "logo": "🔴",
+        "country": "🇲🇲",
+        "str": 1
+      },
+      {
+        "id": "hanoi",
+        "name": "Hanoi FC",
+        "city": "Hanoi",
+        "logo": "🔴",
+        "country": "🇻🇳",
+        "str": 1.05
+      },
+      {
+        "id": "me",
+        "name": "Persija Jakarta",
+        "logo": "⭐",
+        "country": "🇮🇩",
+        "str": 1,
+        "isMe": true
+      }
+    ],
+    "schedule": [
+      {
+        "matchday": 1,
+        "club": {
+          "id": "global",
+          "name": "Kaya FC-Iloilo",
+          "city": "Iloilo",
+          "logo": "🟡",
+          "country": "🇵🇭",
+          "str": 0.98
+        },
+        "isHome": true,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "matchday": 2,
+        "club": {
+          "id": "yangon",
+          "name": "Yangon United",
+          "city": "Yangon",
+          "logo": "🔴",
+          "country": "🇲🇲",
+          "str": 1
+        },
+        "isHome": false,
+        "played": false,
+        "result": null,
+        "score": null
+      },
+      {
+        "matchday": 3,
+        "club": {
+          "id": "hanoi",
+          "name": "Hanoi FC",
+          "city": "Hanoi",
+          "logo": "🔴",
+          "country": "🇻🇳",
+          "str": 1.05
+        },
+        "isHome": true,
+        "played": false,
+        "result": null,
+        "score": null
+      }
+    ],
+    "currentMatchday": 0,
+    "myStats": {
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "points": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0
+    },
+    "standings": [
+      {
+        "id": "global",
+        "name": "Kaya FC-Iloilo",
+        "logo": "🟡",
+        "country": "🇵🇭",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "gd": 0,
+        "points": 0,
+        "isMe": false
+      },
+      {
+        "id": "yangon",
+        "name": "Yangon United",
+        "logo": "🔴",
+        "country": "🇲🇲",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "gd": 0,
+        "points": 0,
+        "isMe": false
+      },
+      {
+        "id": "hanoi",
+        "name": "Hanoi FC",
+        "logo": "🔴",
+        "country": "🇻🇳",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "gd": 0,
+        "points": 0,
+        "isMe": false
+      },
+      {
+        "id": "me",
+        "name": "Persija Jakarta",
+        "logo": "⭐",
+        "country": "🇮🇩",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0,
+        "gd": 0,
+        "points": 0,
+        "isMe": true
+      }
+    ],
+    "finished": false,
+    "reward": 0
+  },
+  "activeCup": {
+    "cupId": "ramadan",
+    "name": "Ramadan Cup",
+    "icon": "🌙",
+    "color": "#8b5cf6",
+    "schedule": [
+      {
+        "matchday": 1,
+        "opponent": "PSIS Semarang",
+        "played": true,
+        "result": "LOSE",
+        "score": "0-3"
+      },
+      {
+        "matchday": 2,
+        "opponent": "Persib Bandung",
+        "played": true,
+        "result": "WIN",
+        "score": "1-0"
+      },
+      {
+        "matchday": 3,
+        "opponent": "PSM",
+        "played": true,
+        "result": "WIN",
+        "score": "4-1"
+      }
+    ],
+    "currentMatchday": 3,
+    "points": 6,
+    "finished": true,
+    "rewards": {
+      "winner": {
+        "coin": 2000,
+        "premium": 30,
+        "equipment": "ramadan_special"
+      },
+      "runner": {
+        "coin": 800,
+        "premium": 10
+      }
+    },
+    "topScorers": [
+      {
+        "name": "Kevin Maestro",
+        "goals": 4,
+        "assists": 0
+      },
+      {
+        "name": "PSIS Striker",
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "name": "PSIS Winger",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "PSM Midfielder",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "Rizky Firmanto",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "name": "PSIS Midfielder",
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "PSIS Attacker",
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "michaeldimaz",
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "PSM Forward",
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Bagas Wicaksono",
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "name": "Ahmad Bustomi",
+        "goals": 0,
+        "assists": 1
+      }
+    ],
+    "goalEvents": [],
+    "finalReward": {
+      "coin": 800,
+      "premium": 10
+    },
+    "message": "🥈 Runner-up Ramadan Cup"
+  },
+  "lastYouthScout": 20,
+  "academyCandidates": [
+    {
+      "id": "youth_1773907793097_9129",
+      "name": "Fauzan Latif",
+      "role": "DM",
+      "type": "MID",
+      "nationality": "🇮🇩",
+      "age": 17,
+      "basePower": 37,
+      "power": 37,
+      "rarity": "C",
+      "growth": 7,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "pace": 39,
+      "shooting": 38,
+      "passing": 44,
+      "defense": 35,
+      "stamina": 83,
+      "mentality": 62,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=youth1773907793097&backgroundColor=22c55e",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 100,
+      "injury": null,
+      "skill": "NONE",
+      "special": "wonderkid",
+      "potentialRating": "B",
+      "nickname": "Youth DM"
+    },
+    {
+      "id": "youth_1773907793097_1750",
+      "name": "Naufal Zakky",
+      "role": "LB",
+      "type": "DEF",
+      "nationality": "🇮🇩",
+      "age": 18,
+      "basePower": 33,
+      "power": 33,
+      "rarity": "C",
+      "growth": 5,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "pace": 40,
+      "shooting": 50,
+      "passing": 52,
+      "defense": 46,
+      "stamina": 75,
+      "mentality": 68,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=youth1773907793097&backgroundColor=22c55e",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 100,
+      "injury": null,
+      "skill": "NONE",
+      "special": "wonderkid",
+      "potentialRating": "B",
+      "nickname": "Youth LB"
+    }
+  ],
+  "dynamicFreeAgents": [
+    {
+      "name": "Greg Nwokolo",
+      "role": "ST",
+      "type": "ATT",
+      "nationality": "🇮🇩",
+      "age": 27,
+      "basePower": 70,
+      "pace": 72,
+      "shooting": 74,
+      "passing": 60,
+      "defense": 40,
+      "stamina": 68,
+      "mentality": 68,
+      "freeAgentCost": 280,
+      "id": "fa_1773961031896_1",
+      "special": "free_agent",
+      "level": 1,
+      "exp": 0,
+      "curStamina": 100,
+      "injury": null,
+      "skill": "NONE",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=fa11773961031896&backgroundColor=3b82f6",
+      "power": 70,
+      "growth": 5,
+      "potentialRating": "B"
+    },
+    {
+      "name": "Stefano Lilipaly",
+      "role": "AM",
+      "type": "MID",
+      "nationality": "🇮🇩",
+      "age": 29,
+      "basePower": 74,
+      "pace": 74,
+      "shooting": 68,
+      "passing": 78,
+      "defense": 50,
+      "stamina": 70,
+      "mentality": 76,
+      "freeAgentCost": 350,
+      "id": "fa_1773961031896_2",
+      "special": "free_agent",
+      "level": 1,
+      "exp": 0,
+      "curStamina": 100,
+      "injury": null,
+      "skill": "NONE",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=fa21773961031896&backgroundColor=3b82f6",
+      "power": 74,
+      "growth": 7,
+      "potentialRating": "A"
+    },
+    {
+      "name": "Boaz Solossa",
+      "role": "LW",
+      "type": "ATT",
+      "nationality": "🇮🇩",
+      "age": 30,
+      "basePower": 72,
+      "pace": 78,
+      "shooting": 70,
+      "passing": 68,
+      "defense": 45,
+      "stamina": 65,
+      "mentality": 72,
+      "freeAgentCost": 320,
+      "id": "fa_1773961031896_3",
+      "special": "free_agent",
+      "level": 1,
+      "exp": 0,
+      "curStamina": 100,
+      "injury": null,
+      "skill": "NONE",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=fa31773961031896&backgroundColor=3b82f6",
+      "power": 72,
+      "growth": 4,
+      "potentialRating": "A"
+    }
+  ],
+  "lastFreeAgentRefresh": 33,
+  "activeBuff": {
+    "type": "team_power",
+    "value": 10,
+    "duration": 1,
+    "name": "Ponaryo Astaman"
+  },
+  "derbyHistory": [
+    {
+      "derbyId": "persija_persib",
+      "name": "El Clasico Indonesia",
+      "result": "WIN",
+      "score": "1-0",
+      "enemyName": "Persib Bandung",
+      "reward": 375,
+      "date": 1773957253506
+    },
+    {
+      "derbyId": "persija_persib",
+      "name": "El Clasico Indonesia",
+      "result": "LOSE",
+      "score": "0-1",
+      "enemyName": "Persib Bandung",
+      "reward": 75,
+      "date": 1773954126501
+    },
+    {
+      "derbyId": "persija_persebaya",
+      "name": "Jakarta vs Surabaya Derby",
+      "result": "DRAW",
+      "score": "0-0",
+      "enemyName": "Persebaya Surabaya",
+      "reward": 120,
+      "date": 1773954123381
+    }
+  ],
+  "transferMarket": [
+    {
+      "id": 50,
+      "name": "Viktor Sanchez",
+      "nickname": "El Libre",
+      "role": "ST",
+      "type": "ATT",
+      "nationality": "🇦🇷",
+      "age": 33,
+      "trait": "Clinical Finisher",
+      "basePower": 75,
+      "power": 75,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "rarity": "S",
+      "growth": 2,
+      "pace": 65,
+      "shooting": 82,
+      "passing": 58,
+      "defense": 25,
+      "stamina": 60,
+      "mentality": 85,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=viktor&backgroundColor=87ceeb",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 100,
+      "injury": null,
+      "skill": "HAT_TRICK",
+      "special": "free_agent",
+      "freeAgentCost": 500,
+      "freeAgentExpiry": null,
+      "marketId": "market_1774016852915_48838",
+      "price": 1330
+    },
+    {
+      "id": 30,
+      "name": "Bambang Pamungkas",
+      "nickname": "Bepe",
+      "role": "ST",
+      "type": "ATT",
+      "nationality": "🇮🇩",
+      "age": 42,
+      "trait": "Clinical Finisher",
+      "basePower": 90,
+      "power": 90,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 999999,
+      "rarity": "SSR",
+      "growth": 0,
+      "pace": 68,
+      "shooting": 92,
+      "passing": 70,
+      "defense": 30,
+      "stamina": 65,
+      "mentality": 95,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=bambang&backgroundColor=dc143c",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 100,
+      "injury": null,
+      "skill": "HAT_TRICK",
+      "special": "icon",
+      "retired": true,
+      "iconDesc": "Legenda Persija Jakarta & Timnas Indonesia. 88 gol untuk timnas.",
+      "marketId": "market_1774016852915_55085",
+      "price": 1420
+    },
+    {
+      "id": 41,
+      "name": "Rama Pratista",
+      "nickname": "Future Star",
+      "role": "CM",
+      "type": "MID",
+      "nationality": "🇮🇩",
+      "age": 17,
+      "trait": "Box to Box",
+      "basePower": 48,
+      "power": 48,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "rarity": "B",
+      "growth": 14,
+      "pace": 65,
+      "shooting": 50,
+      "passing": 68,
+      "defense": 45,
+      "stamina": 85,
+      "mentality": 65,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=rama&backgroundColor=a855f7",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 100,
+      "injury": null,
+      "skill": "NONE",
+      "special": "wonderkid",
+      "potentialRating": "A",
+      "marketId": "market_1774016852915_99531",
+      "price": 1168
+    },
+    {
+      "id": 21,
+      "name": "Sandy Walsh",
+      "nickname": "Flying Dutchman",
+      "role": "RB",
+      "type": "DEF",
+      "nationality": "🇧🇪",
+      "age": 27,
+      "trait": "Overlapping",
+      "basePower": 78,
+      "power": 78,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "rarity": "S",
+      "growth": 4,
+      "pace": 82,
+      "shooting": 45,
+      "passing": 72,
+      "defense": 78,
+      "stamina": 88,
+      "mentality": 80,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=sandywalsh&backgroundColor=1a1a2e",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 100,
+      "injury": null,
+      "skill": "NONE",
+      "naturalized": true,
+      "special": "naturalized",
+      "marketId": "market_1774016852915_7745",
+      "price": 1348
+    },
+    {
+      "id": 22,
+      "name": "Jordi Amat",
+      "nickname": "The Wall of Spain",
+      "role": "CB",
+      "type": "DEF",
+      "nationality": "🇪🇸",
+      "age": 32,
+      "trait": "Leadership",
+      "basePower": 80,
+      "power": 80,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "rarity": "S",
+      "growth": 3,
+      "pace": 58,
+      "shooting": 25,
+      "passing": 65,
+      "defense": 85,
+      "stamina": 80,
+      "mentality": 90,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=jordiamat&backgroundColor=c0392b",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 100,
+      "injury": null,
+      "skill": "IRON_WALL",
+      "naturalized": true,
+      "special": "naturalized",
+      "marketId": "market_1774016852915_67572",
+      "price": 1360
+    },
+    {
+      "id": 20,
+      "name": "Marc Klok",
+      "nickname": "Dutch Engine",
+      "role": "CM",
+      "type": "MID",
+      "nationality": "🇳🇱",
+      "age": 29,
+      "trait": "Box to Box",
+      "basePower": 82,
+      "power": 82,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "rarity": "S",
+      "growth": 4,
+      "pace": 72,
+      "shooting": 65,
+      "passing": 85,
+      "defense": 68,
+      "stamina": 90,
+      "mentality": 88,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=marcklok&backgroundColor=ff6b35",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 100,
+      "injury": null,
+      "skill": "VISION",
+      "naturalized": true,
+      "special": "naturalized",
+      "marketId": "market_1774016852915_44778",
+      "price": 1372
+    },
+    {
+      "id": 31,
+      "name": "Kurniawan Dwi Yulianto",
+      "nickname": "Kurus Emas",
+      "role": "ST",
+      "type": "ATT",
+      "nationality": "🇮🇩",
+      "age": 48,
+      "trait": "Speed Demon",
+      "basePower": 88,
+      "power": 88,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 999999,
+      "rarity": "SSR",
+      "growth": 0,
+      "pace": 92,
+      "shooting": 85,
+      "passing": 62,
+      "defense": 25,
+      "stamina": 60,
+      "mentality": 88,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=kurniawan&backgroundColor=ffd700",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 100,
+      "injury": null,
+      "skill": "DRIBBLE",
+      "special": "icon",
+      "retired": true,
+      "iconDesc": "Mantan pemain tercepat Asia. Pencetak gol timnas terbanyak di era 90an.",
+      "marketId": "market_1774016852915_43815",
+      "price": 1408
+    },
+    {
+      "id": 42,
+      "name": "Farhan Noor",
+      "nickname": "The Wall Jr",
+      "role": "CB",
+      "type": "DEF",
+      "nationality": "🇮🇩",
+      "age": 18,
+      "trait": "Aerial",
+      "basePower": 46,
+      "power": 46,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "rarity": "C",
+      "growth": 12,
+      "pace": 42,
+      "shooting": 18,
+      "passing": 40,
+      "defense": 56,
+      "stamina": 80,
+      "mentality": 62,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=farhan&backgroundColor=3b82f6",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 100,
+      "injury": null,
+      "skill": "NONE",
+      "special": "wonderkid",
+      "potentialRating": "A",
+      "marketId": "market_1774016852915_11644",
+      "price": 1156
+    },
+    {
+      "id": 40,
+      "name": "Aditya Raka",
+      "nickname": "Wonderkid",
+      "role": "LW",
+      "type": "ATT",
+      "nationality": "🇮🇩",
+      "age": 16,
+      "trait": "Speed Dribble",
+      "basePower": 45,
+      "power": 45,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "rarity": "B",
+      "growth": 15,
+      "pace": 78,
+      "shooting": 52,
+      "passing": 55,
+      "defense": 22,
+      "stamina": 82,
+      "mentality": 60,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=aditya&backgroundColor=22c55e",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 100,
+      "injury": null,
+      "skill": "NONE",
+      "special": "wonderkid",
+      "potentialRating": "S",
+      "marketId": "market_1774016852915_73644",
+      "price": 1150
+    },
+    {
+      "id": 51,
+      "name": "Thomas Mueller-Becker",
+      "nickname": "Bomber",
+      "role": "CM",
+      "type": "MID",
+      "nationality": "🇩🇪",
+      "age": 31,
+      "trait": "Long Pass",
+      "basePower": 72,
+      "power": 72,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 100,
+      "rarity": "A",
+      "growth": 3,
+      "pace": 62,
+      "shooting": 60,
+      "passing": 82,
+      "defense": 55,
+      "stamina": 78,
+      "mentality": 80,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=thomas&backgroundColor=1a1a2e",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 100,
+      "injury": null,
+      "skill": "VISION",
+      "special": "free_agent",
+      "freeAgentCost": 400,
+      "freeAgentExpiry": null,
+      "marketId": "market_1774016852915_18965",
+      "price": 1312
+    },
+    {
+      "id": 32,
+      "name": "Bima Sakti",
+      "nickname": "The General",
+      "role": "CM",
+      "type": "MID",
+      "nationality": "🇮🇩",
+      "age": 49,
+      "trait": "Leadership",
+      "basePower": 85,
+      "power": 85,
+      "level": 1,
+      "exp": 0,
+      "expNeeded": 999999,
+      "rarity": "SSR",
+      "growth": 0,
+      "pace": 62,
+      "shooting": 70,
+      "passing": 88,
+      "defense": 72,
+      "stamina": 65,
+      "mentality": 95,
+      "image": "https://api.dicebear.com/7.x/bottts/svg?seed=bimasakti&backgroundColor=1e3a5f",
+      "equipment": {
+        "HEAD": null,
+        "BODY": null,
+        "HAND": null,
+        "FEET": null,
+        "ACC": null
+      },
+      "curStamina": 100,
+      "injury": null,
+      "skill": "VISION",
+      "special": "icon",
+      "retired": true,
+      "iconDesc": "Gelandang legendaris Timnas Indonesia. Kapten bersejarah Piala AFF.",
+      "marketId": "market_1774016852915_95150",
+      "price": 1390
+    }
+  ]
+}
