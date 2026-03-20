@@ -1,0 +1,13 @@
+FINAL PATCH PACKAGE
+
+Backend target: server.js
+
+Isi patch:
+- Fix durability equipment lama dan baru (hp/maxHp).
+- Character player otomatis menjadi controlled player di tim sendiri.
+- Career mode mengunci controlled player ke posisi aslinya.
+- Pindah tim / keluar tim dikunci sampai pertengahan musim saat liga atau career aktif.
+- Match dan career response menambahkan userTeam + controlledPlayer.
+- Standing liga/career memakai identitas klub user.
+
+File lain disertakan dari paket asli tanpa diubah agar struktur proyek tetap lengkap.

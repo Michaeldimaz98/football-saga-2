@@ -1,0 +1,98 @@
+=====================================================
+  FOOTBALL SAGA — PATCH v8 RELEASE NOTES
+  File: football_saga_v8.zip
+=====================================================
+
+FILES YANG DIUBAH:
+  public/patch_v8.js          ← FILE BARU (inject setelah main.js)
+  public/index.html           ← Ditambah <script src="patch_v8.js">
+  src/services/teamService.js ← Fix setFormationPlayer
+  src/routes/featuresRoutes.js ← Fix AFC standings + tambah AFF standings endpoint
+
+=====================================================
+  BUG FIXES
+=====================================================
+
+1. ✅ BUG: Speed x3 stuck / animasi beku saat pertandingan
+   - Root cause: ball.celebration jalan 3x per render frame di dalam loop speed
+     menyebabkan bola keluar lapangan & engine freeze
+   - Fix: celebration movement dipindah ke render phase (1x per frame)
+   - Fix: Semua setTimeout di timeline events dihapus (tidak aman di speed tinggi)
+   - Dibuat _buildFixedTimeline() baru yang 100% synchronous
+
+2. ✅ BUG: Formasi tidak bisa ganti player dari bench
+   - Root cause: HTML5 drag-and-drop tidak bekerja di touch/mobile
+   - Fix FRONTEND: Tambah click-to-select mechanic
+     → Klik bench player → muncul hint "Pilih posisi di lapangan"
+     → Klik posisi di lapangan → player langsung ditempatkan
+   - Fix BACKEND: setFormationPlayer lebih fleksibel
+     → GK tetap ketat (GK only untuk GK)
+     → Non-GK bisa cross-position swap (misal CM ke ST)
+     → Auto-swap jika posisi sudah terisi (player lama → posisi lama player baru)
+   - Fix MOBILE: Touch drag-and-drop polyfill untuk layar sentuh
+
+=====================================================
+  FITUR BARU
+=====================================================
+
+3. ✅ FEAT: Preview stat player di formasi
+   - Klik avatar player di lapangan → popup stats lengkap
+   - Menampilkan: Pace/Shooting/Passing/Defense/Stamina/Mentality
+   - Menampilkan: Stamina bar, status cedera, Trait, Skill
+   - Tombol "Ganti Player" untuk trigger swap mode
+
+4. ✅ FEAT: Equip picker redesign (tampil posisi + formasi info)
+   - Player yang sedang di formasi tampil duluan dengan badge posisi (⭐ CM1)
+   - Badge "🔄 Ganti: nama_equip_lama" jika slot sudah terisi
+   - Role filter otomatis (equipment GK only → hanya tampil GK)
+   - Icon equipment lebih jelas
+
+5. ✅ FEAT: Gacha — daftar hadiah per banner
+   - Tiap banner menampilkan 5 contoh hadiah spesifik
+   - Standard Scout: Jersey, Headband, Boots, dll.
+   - Premium Scout: Elite equipment + 3 Icon Player (Bambang, Kurniawan, Bima Sakti)
+   - Equipment Banner: Equipment rare & epic focus
+   - Support Banner: Repair kit, consumables, scrolls
+   - Banner Premium menampilkan info rate Icon Player SSR
+
+6. ✅ FIX: Gacha layout proporsional
+   - Orb icon lebih kecil (tidak mendominasi layar)
+   - Rate display kompak (wrap ke beberapa baris)
+   - Panel kanan scrollable untuk reward list
+   - Banner list lebih padat
+
+7. ✅ FEAT: AFC Champions — statistik + tombol daftar ulang
+   - Panel kanan menampilkan:
+     → Top Scorer AFC (⚽ nama · jumlah gol)
+     → Top Assist AFC (🅰️ nama · jumlah assist)  
+     → Kartu Terbanyak (🟨🟥 nama · jumlah)
+   - Tombol "🔄 Daftar Lagi AFC Musim Baru" muncul setelah turnamen selesai
+   - Backend: endpoint /afc/standings sekarang return topScorers/topAssists/topCards
+
+8. ✅ FEAT: Piala AFF — statistik gol/assist/kartu
+   - Panel kanan menampilkan statistik lengkap seperti AFC
+   - Backend: endpoint baru /aff/standings dengan data statistik
+   - Tombol daftar ulang AFF setelah musim selesai
+
+9. ✅ FEAT: Semua tim NPC punya nama pemain lengkap
+   - 15+ tim memiliki squad list spesifik:
+     Liga: Persija, Persib, Persebaya, Arema, PSM, Borneo, PSS, Madura, Barito, PSIS
+     AFC:  Jeonbuk, Kawasaki Frontale, Urawa Red Diamonds, Persipura
+     AFF:  Kaya-Iloilo, Boeung Ket, Yangon United
+   - Enemy lineup panel di layar pertandingan menampilkan nama nyata
+   - Nama disesuaikan per posisi (GK/DEF/MID/ATT)
+
+=====================================================
+  CARA INSTALL
+=====================================================
+
+Ekstrak zip ini menggantikan folder football_saga sebelumnya.
+File yang perlu di-replace:
+  - public/index.html
+  - public/patch_v8.js      (FILE BARU)
+  - src/services/teamService.js
+  - src/routes/featuresRoutes.js
+
+Jalankan seperti biasa: npm start / node index.js
+
+=====================================================

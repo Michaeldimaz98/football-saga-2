@@ -1,0 +1,24 @@
+{
+  "applied": [
+    "loadUser normalize",
+    "role helpers extend",
+    "character create",
+    "season position",
+    "club join",
+    "club leave",
+    "formation set",
+    "career start",
+    "match route start",
+    "match response",
+    "liga standings identity",
+    "career standings identity",
+    "career match start",
+    "career match validate",
+    "career response",
+    "buy item defaults",
+    "upgrade init durability",
+    "repair init durability"
+  ],
+  "server_changed": true,
+  "server_syntax": "ok"
+}
